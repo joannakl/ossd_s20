@@ -93,16 +93,16 @@ For detailed schedule, see the [Daily](daily.html) tab of this page.
 
 
 
-# Grading  (exact grading rule subject to change by the beginning of the spring semester)
+# Grading  (exact grading rules subject to change by the beginning of the spring semester)
 ---
 
 Your grade will be based on:
 
-* in-class assessments (40%): several (approximately 6) in-class mini-exams (~30 minutes) based on assigned readings, completed homework assignments, group work, presentations   
-given in class, etc (the lowest grade out of the six will be dropped to account for any excused or un-excused absences)  
+* in-class assessments (40%): exams and quizzes <!--several (approximately 6) in-class mini-exams (~30 minutes) based on assigned readings, completed homework assignments, group work, presentations   
+given in class, etc (the lowest grade out of the six will be dropped to account for any excused or un-excused absences)  -->
 * contributions (40%): these include contributions to existing open source projects both individual and in groups (details to be discussed at the
 beginning of the semester)  
-* homework (10%): weekly posts (answering homework prompts, reflecting on readings, contributions and activities), and other forms of homework assignments
+* homework (10%): weekly blog posts (answering homework prompts, reflecting on readings, contributions and activities), and other forms of homework assignments
 * participation (10%): in-class discussions, in-class team work and report-outs
 
 

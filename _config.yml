@@ -3,7 +3,7 @@ title: CSCI-UA 480 (Open Source Software Development)
 description: "Course website for CSCI-UA 480 (Open Source Software Development) course."
 
 baseurl: "/ossd_s19" # the subpath of your site, e.g. /blog
-url: "https://joannakl.github.io/ossd_s19" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://joannakl.github.io/ossd_s20" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
 kramdown:
@@ -19,7 +19,7 @@ exclude:
 course_number: "CSCI-UA 480"
 course_name: "Open Source Software Development"
 course_section: "010"
-course_semester: "Spring 2019"
+course_semester: "Spring 2020"
 course_time: "<br>Mondays and Wednesdays 3:30pm - 4:45pm, CIWW, Room 517<br>"
 
 
@@ -37,11 +37,11 @@ tutor_schedule_link: ""
 
 
 current_course1_title: "CSCI 201 sec. 3"
-current_course1_link: "https://cs.nyu.edu/~joannakl/cs201_s19/"
+current_course1_link: "https://cs.nyu.edu/~joannakl/cs201_s20/"
 current_course2_title: "CSCI 480 sec. 4 (APS)"
-current_course2_link: "https://cs.nyu.edu/~joannakl/aps_s19/"
+current_course2_link: "https://cs.nyu.edu/~joannakl/aps_s20/"
 current_course3_title: "CSCI 480 sec. 10 (OSSD)"
-current_course3_link: "https://cs.nyu.edu/~joannakl/ossd_s19/"
+current_course3_link: "https://cs.nyu.edu/~joannakl/ossd_s20/"
 
 midterm_exam_date: "TBD"
 final_exam_date: "TBD"

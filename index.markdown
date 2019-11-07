@@ -41,9 +41,9 @@ start getting failing grades because it might be too late by then.
 ---
 **Open Source Software Development**
 
-CSCI-UA 480 Prerequisite: Computer Systems Organization (CSCI-UA 201). <br>
+This course prepares students to become active participants in open source projects. It begins with an overview of the philosophy and brief history of open source development, followed by an in-depth look at different types of open source projects and the study of various tools involved in open source development. In particular, it covers the collaborative nature of open source projects, community structure, version control systems, licensing, intellectual property, types of contributions (programming and non-programming) and the tool-chains that enable such contributions.
 
-This course prepares students to become active participants in open source projects. It begins with an overview of the philosophy and brief history of open source development, followed by an in-depth look at different types of open source projects and the study of various tools involved in open source development. In particular, it covers the collaborative nature of open source projects, community structure, version control systems, licensing, intellectual property, types of contributions (programming and non-programming) and the tool-chains that enable such contributions. The students are expected to contribute to existing open source projects.
+__The students are expected to contribute to existing open source projects.__
 
 # Why Open Source Matters and Why Should You Care?
 ---
