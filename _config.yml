@@ -2,7 +2,7 @@
 title: CSCI-UA 480 (Open Source Software Development)
 description: "Course website for CSCI-UA 480 (Open Source Software Development) course."
 
-baseurl: "/ossd_s19" # the subpath of your site, e.g. /blog
+baseurl: "/ossd_s20" # the subpath of your site, e.g. /blog
 url: "https://joannakl.github.io/ossd_s20" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
