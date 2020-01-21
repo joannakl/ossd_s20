@@ -1,12 +1,12 @@
-/* Run 
+/* Run
  *    lessc styles.less styles.css
  * to generate the css file.
  */
 /* Color schemes website:
- *     http://colorschemedesigner.com  
+ *     http://colorschemedesigner.com
  */
 /*
-Color scheme: 
+Color scheme:
 */
 html {
   margin: 0;
@@ -150,10 +150,11 @@ main .name {
   color: #360066;
   font-variant: small-caps;
 }
-td {
+
+/*td {
   padding: 1em;
   vertical-align: top;
-}
+}*/
 /**************/
 .lecture1 {
   clear: left;
