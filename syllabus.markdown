@@ -98,12 +98,14 @@ For detailed schedule, see the [Daily](daily.html) tab of this page.
 
 Your grade will be based on:
 
-* [preparedness / attendance / engagement](pae.html): 10%
+* preparedness / attendance / engagement: 10%
 * blogs / reflective writing:  20%
 * activities / exercises / homework: 10%
 * individual contributions to open source projects: 30%
 * group project (individual's contributions to the group  project): 40%
 * in-class assessments: 10%
+
+Here are the [details](grading.html) of how each category is going to be assessed and graded. 
 
 <!--
 : exams and quizzes

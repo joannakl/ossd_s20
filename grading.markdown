@@ -13,8 +13,17 @@ PAE scores will be assigned according to the rubric below. The standard score in
 
 |Score | Preparation |  Attendance| Engagement |
 |:---|:---|:---|:---|
-|0| | Did not attend the class or was not present for significant portions of class period. | |
-|✓-| | Attended class but may have been late and/or left the room with usual frequency or duration | |
-|✓ | | Attended class, was on time and present in the class throughout period.| |
-|✓+| | Unused | |
-|✓++| | Unused | |
+|0|Failed to demonstrate any familiarity with the assigned materials. | Did not attend the class or was not present for significant portions of class period. | |
+|✓-| Demonstrated only minimal familiarity and interest in the assigned materials.  | Attended class but may have been late and/or left the room with usual frequency or duration | |
+|✓ | Demonstrated __expected__ familiarity with assigned materials. | Attended class, was on time and present in the class throughout period.| |
+|✓+| Demonstrated __strong__ familiarity with the assigned materials. Took part in the class discussion by sharing the insights and personal reflections.| Unused | |
+|✓++|Demonstrated __exceptional__ familiarity with the assigned materials. Took initiative in finding and sharing related content. Approached the materials in unique and creative ways. | Unused | |
+
+
+## Blogs / Reflective Writing  20%
+
+## Activities / Exercises / Homework 10%
+
+## individual contributions to open source projects: 30%
+## group project (individual's contributions to the group  project): 40%
+## in-class assessments: 10%
