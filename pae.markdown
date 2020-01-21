@@ -11,6 +11,7 @@ PAE is assessed for each student during each class period. Preparation includes 
 PAE scores will be assigned according to the rubric below. The standard score in each category, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-.  
 
 <center>
+
 |Score | Preparation |  Attendance| Engagment |
 |:---|:---|:---|:---|
 |0| | Did not attend the class or was not present for significant portions of class period. | |
