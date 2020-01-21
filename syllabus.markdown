@@ -49,7 +49,7 @@ and save millions of taxpayer dollars for the American people."
 ---
 
 - official: passing CSCI.UA.0201 with a grade of C or better
-- interest in learning about open source culture, history and development model
+- interest in learning about open source culture, history, licensing and development models
 - willingness to share and collaborate
 
 
@@ -98,13 +98,20 @@ For detailed schedule, see the [Daily](daily.html) tab of this page.
 
 Your grade will be based on:
 
-* in-class assessments (40%): exams and quizzes <!--several (approximately 6) in-class mini-exams (~30 minutes) based on assigned readings, completed homework assignments, group work, presentations   
-given in class, etc (the lowest grade out of the six will be dropped to account for any excused or un-excused absences)  -->
+* [preparedness / attendance / engagement](pae.html): 10%
+* blogs / reflective writing:  20%
+* activities / exercises / homework: 10%
+* individual contributions to open source projects: 30%
+* group project (individual's contributions to the group  project): 40%
+* in-class assessments: 10%
+
+<!--
+: exams and quizzes
 * contributions (40%): these include contributions to existing open source projects both individual and in groups (details to be discussed at the
 beginning of the semester)  
 * homework (10%): weekly blog posts (answering homework prompts, reflecting on readings, contributions and activities), and other forms of homework assignments
 * participation (10%): in-class discussions, in-class team work and report-outs
-
+-->
 
 Grades will be determined using the following scale:
 
