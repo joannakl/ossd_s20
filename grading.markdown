@@ -36,13 +36,13 @@ The blog posts will be assessed throughout the semester using the rubric below. 
 
 |Score | Timeliness |  Mechanics and Formatting| Writing and Content |
 |:---|:---|:---|:---|
-|0| Post missing or trivial. | Post is of trivial length. | Writing is largely incoherent or content shows no connection with the readings/discussions or prompts for the given week. |
+|0| Post missing or late more than three days. | Post is of trivial length. | Writing is largely incoherent or content shows no connection with the readings/discussions or prompts for the given week. |
 |✓-| Post made late, but within three days of the due date.  | Writing is very brief, formatting is lacking making the post hard to read.  | Writing is only loosely  connected to the readings/discussions and prompts for the given week. Post enumerates answers  and ideas rather than containing organized narrative. |
 |✓ | Post made by the due date.  | Post is of appropriate length, is formatted properly, is easy to follow, and multimedia use (if any) is appropriate.  | Writing is clear, concise, interesting on topic, clearly connected to the readings/discussions or prompts for the given week.  |
 |✓+| Unused. | Unused | Additionally, post is exceptionally well organized or interesting.  |
 |✓++| Unused. | Unused. | Additionally, post shows personal insights, carefully thought out reflections and  creativity.  |
 
-If you find writing blog posts challenging, some good advice on writing effective blog entries can be found at:
+<br> If you find writing blog posts challenging, some good advice on writing effective blog entries can be found at:
 - [Effective Academic Blogging](http://writing2.richmond.edu/writing/wweb/blogging.html) from the Writer's Web at the University of Richmond Writing Center.
 - [Blogs](http://writingcenter.unc.edu/handouts/blogs/) from The Writing Center at UNC-Chapel Hill.
 - [Writing a Blog](http://www.iup.edu/writingcenter/writing-resources/workshop-videos/writing-a-blog/) workshop video from the Indiana University of Pennsylvania (IUP) Writing Center.
@@ -50,6 +50,26 @@ If you find writing blog posts challenging, some good advice on writing effectiv
 
 ## Activities / Exercises / Homework 10%
 
-## individual contributions to open source projects: 30%
-## group project (individual's contributions to the group  project): 40%
-## in-class assessments: 10%
+Early in the semester there will be a number of in-class activities, tutorials and homework assignments designed to introduce you to some of the tools and techniques commonly used in FOSS projects (and in professional software development as well). Typically these assignments will require you to complete some tutorials and activities while keeping a Slack Live-Log (see below) of your work. .
+
+Tutorials and homework exercises will be assessed largely on completion and effort as documented by the associated Slack live-logs according to the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.  
+
+
+
+|Score | Activity |
+|:---|:---|
+|0| Live-log entries are minimal or absent and/or provide little to no evidence of the progress and completion of the assigned work. OR live-log entries are inappropriate. |
+|✓-| Live-log entries are vague, infrequent, or fail to sufficiently demonstrate an appropriate level of thoughtful engagement with the assignment.  |
+|✓ |  Live-log entries are sufficiently detailed, regular, clearly demonstrating the sufficient effort was made to thoughtfully engage with and understand the assignment. |
+|✓+| Live-logs meet criteria for ✓ __and__ demonstrate that students expanded on the assigned work in __exceptionally__ interesting, productive and/or creative ways. |
+|✓++| Unused. |
+
+
+
+## Individual Contributions to FOSS projects: 20%
+
+
+## Group Project (individual's contributions to the group  project): 30%
+
+
+## In-class Assessments: 10%
