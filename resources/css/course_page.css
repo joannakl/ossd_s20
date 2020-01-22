@@ -151,6 +151,10 @@ main .name {
   font-variant: small-caps;
 }
 
+table{
+  width: 80%; 
+}
+
 table, th, td {
   border: 1px solid black;
 }
@@ -159,7 +163,7 @@ th, td {
   vertical-align: top;
 }
 td{
-  font-size: 0.75em; 
+  font-size: 0.75em;
 }
 /**************/
 .lecture1 {
