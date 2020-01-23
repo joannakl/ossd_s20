@@ -220,6 +220,12 @@ There are two places in which contributions should be posted:
 
 Each contribution listing should contain links to publicly accessible documents, discussion forums, issue trackers, pull requests, etc.
 
+<br>
+
 ---
 
-The rubrics, descriptions and language adapted from https://github.com/braughtg/DickinsonHFOSS-SFC-Materials .
+<br>
+
+<small>
+The rubrics, descriptions and language adapted from https://github.com/braughtg/DickinsonHFOSS-SFC-Materials made available under the CC BY-NC-SA 4.0 by Grant Braught.
+</small>
