@@ -14,7 +14,7 @@ PAE scores will be assigned according to the rubric below. The standard score in
 
 
 |Score | Preparation |  Attendance| Engagement |
-|:---|:---|:---|:---|
+|:---:|:---|:---|:---|
 |0|Failed to demonstrate any familiarity with the assigned materials. | Did not attend the class or was not present for significant portions of class period. | Consistently inactive, distracted , disconnected and showing none or little interest in class discussion and activities.|
 |✓-| Demonstrated only minimal familiarity and interest in the assigned materials.  | Attended class but may have been late and/or left the room with usual frequency or duration |Frequent periods of distraction, inattention or disinterest.   |
 |✓ | Demonstrated __expected__ familiarity with assigned materials. | Attended class, was on time and present in the class throughout period.|Engaged in discussion and activities.  |
@@ -37,7 +37,7 @@ Posts will typically be 200-600 words. You are given wide latitude for the conte
 The blog posts will be assessed throughout the semester using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.  
 
 |Score | Timeliness |  Mechanics and Formatting| Writing and Content |
-|:---|:---|:---|:---|
+|:---:|:---|:---|:---|
 |0| Post missing or late more than three days. | Post is of trivial length. | Writing is largely incoherent or content shows no connection with the readings/discussions or prompts for the given week. |
 |✓-| Post made late, but within three days of the due date.  | Writing is very brief, formatting is lacking making the post hard to read.  | Writing is only loosely  connected to the readings/discussions and prompts for the given week. Post enumerates answers  and ideas rather than containing organized narrative. |
 |✓ | Post made by the due date.  | Post is of appropriate length, is formatted properly, is easy to follow, and multimedia use (if any) is appropriate.  | Writing is clear, concise, interesting on topic, clearly connected to the readings/discussions or prompts for the given week.  |
@@ -57,7 +57,7 @@ Early in the semester there will be a number of in-class activities, tutorials a
 Tutorials and homework exercises will be assessed largely on completion and effort as documented by the associated Slack live-logs according to the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.  
 
 |Score | Activity |
-|:---|:---|
+|:---:|:---|
 |0| Live-log entries are minimal or absent and/or provide little to no evidence of the progress and completion of the assigned work. OR live-log entries are inappropriate. |
 |✓-| Live-log entries are vague, infrequent, or fail to sufficiently demonstrate an appropriate level of thoughtful engagement with the assignment.  |
 |✓ |  Live-log entries are sufficiently detailed, regular, clearly demonstrating the sufficient effort was made to thoughtfully engage with and understand the assignment. |
@@ -74,7 +74,7 @@ their group projects and the level of individual contributions will naturally de
 The examples of individual contributions are shown below. This is __not__ and exclusive list and most individual contributions to _open_ projects (not necessarily source code)
 will be counted towards the grade.
 - Wikipedia edits
-- OpenStreet Map edits
+- OpenStreetMap edits
 - Comments on existing issues, reporting of new issues and submitting fixes for other student blog repositories
 - Comments on existing issues, reporting of new issues and submitting fixes for the course website
 - Comments on issues of FOSS projects
@@ -85,16 +85,41 @@ The individual contributions should be documented on the _Contribution_ page of 
 
 
 |Score | Frequency / Regularity | Content |
-|:---|:---|:---|
+|:---:|:---|:---|
 |0| Very few contributions  or all contributions made in one burst. | All contributions are trivial.  |
 |✓- | Few contributions but made regularly throughout the evaluated period OR satisfactory number of contributions but made in bursts.   | Many contributions are trivial with a few providing meaningful benefit to the project. |
 |✓ |  Satisfactory number of contributions that are made regularly throughout the evaluated period.  | Contributions clearly benefit the project and communities around that project. |
-|✓+|  Contributions meet criteria for ✓  and there is unusually large number of significant contributions.  | Contributions meet criteria for ✓ and some of the
-contributions are significant in terms of challenge that they posed during the issue resolution or benefit that they provide to the community. |
+|✓+|  Contributions meet criteria for ✓  and there is unusually large number of significant contributions.  | Contributions meet criteria for ✓ and some of the contributions are significant in terms of challenge that they posed during the issue resolution or benefit that they provide to the community. |
 |✓++| Unused. | Contributions meet criteria for ✓+  and have been received with exceptional enthusiasm by the community of the project. |
 
 ## Group Project (individual's contributions to the group  project): 30%
 
+In the second half of the semester, students will be working in groups of 3-4 students on contributions to a selected project. Each student's contributions to this group effort will be assessed individually based on several checkpoints:
+- project selection and the initial presentation
+- weekly five-fifteens (see below)
+- Slack live-logs
+- interaction with the community
+- contributions made to the project
+- final presentation
+
+The group contributions should be documented on the wiki page for the group project.
+
+The six aspects of the group project will be assessed according to the rubric for each item below.
+The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.  
+
+### Project selection and the initial presentation
+
+### Weekly five-fifteens
+
+### Slack live-logs
+
+
+### Interaction with the community
+
+### Contributions made to the project
+
+
+### Final presentation
 
 
 
