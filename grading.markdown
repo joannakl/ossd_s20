@@ -108,14 +108,40 @@ The standard score, and what you should generally expect to receive, is a ✓. S
 
 ### Project selection and the initial presentation
 
+Each project group should review several projects (following project evaluation exercises) that will lead to selection of a FOSS project that the group will work on for the remainder of the
+semester.
+Each project group will then give a presentation on their selected project/community.
+
+Project/community selection will be assessed based on the completion and quality of the preliminary exercises and the presentation according to rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.
+
+|Score | Project Evaluation | Project Selection Presentation |
+|:---:|:---|:---|
+|0| Project evaluation does not exist or is very incomplete.  | Presentation was not given or showed little to no preparation.  |
+|✓- | Some project evaluation entries missing  and/or reflect insufficient effort in understanding project and its community. | Presentation was not engaging, unclear, incomplete, excessively long or short, did not balance presentation among team members.  |
+|✓ |  All project evaluation entries are clear, complete and reflect the expected level of understanding of the project and its community.| Presentation was engaging, clearly conveyed the project information, used media effectively, allowed equal participation by team members and was appropriate length. |
+|✓+|  Project evaluation meets criteria for ✓  and demonstrates exceptional understanding of the reviewed project.  | Presentation meets  criteria for ✓ and was exceptional in some regard. |
+|✓++| Unused. | Unused. |
+
 ### Weekly five-fifteens
+
+|Score | Individual 5-15 | Individual Accomplishments | Group/project 5-15 | Group Accomplishments |
+|:---:|:---|:---|:---|:---|
+|0| Missing post | No or little evidence of individual activity/accomplishments  | Missing post |No or little evidence of group activity/accomplishments and/or no evidence of the group working together. |
+|✓- | One or more entries were not present or are insufficient.| Individual activities/accomplishments not as planned/expected and/or someone less significant that those of the other group members.  | One or more entries were not present or are insufficient. |  Group activities/accomplishments not as planned/expected with no justification for it. |
+|✓ |  All entries contain all required section and include appropriate, thoughtful and informative content.| Individual activities/accomplishments at the expected level.  | All entries contain all required section and include appropriate, thoughtful and informative content. |  Group activities/accomplishments at the expected level.  |
+|✓+|  The 5-15 meets criteria for ✓ and shows exceptional insight in at least one section. | Individual activities/accomplishments meet criteria for ✓ and are more significant than those of the other group members. | The 5-15 meets criteria for ✓ and shows exceptional insight in at least one section. | Group activities/accomplishments meet criteria for ✓ and demonstrate significant progress for the team as a whole.  |
+|✓++| The 5-15 meets criteria for ✓ and shows exceptional insight in several sections. | Individual activities/accomplishments meet criteria for ✓+ and show exceptional insight or  creativity. | The 5-15 meets criteria for ✓ and shows exceptional insight in several sections. | Unused.  |
 
 ### Slack live-logs
 
 
-### Interaction with the community
-
-### Contributions made to the project
+|Score | Live-logs |
+|:---:|:---|
+|0| Live-log were not maintained, are insufficient OR live-log entries are inappropriate. |
+|✓-| Live-log entries are vague, infrequent, or fail to sufficiently demonstrate an appropriate level of thoughtful engagement with the project and the group.  |
+|✓ |  Live-log entries are sufficiently detailed, regular, clearly demonstrating the sufficient effort was made to thoughtfully engage during the group work. |
+|✓+| Live-logs meet criteria for ✓ __and__ also provide exceptional insight into the group's work. |
+|✓++| Unused. |
 
 
 ### Final presentation
