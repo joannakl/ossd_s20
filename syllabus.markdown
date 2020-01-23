@@ -53,42 +53,55 @@ and save millions of taxpayer dollars for the American people."
 - willingness to share and collaborate
 
 
-# Topics Covered (exact list of topics subject to change by the beginning of the spring semester)
----
+# Topics Covered (exact list of topics  and their order subject to change, for detailed schedule, see the [Daily](daily.html) tab of this page. )
 
-- Intro to open source: it's not only code
-    - open data,
-    - open hardware,
-    - open education,
-    - open government
-    - open health
-    - ...
-- History and philosophy of open source
-
-- How to be a Fosser?
-    - types of contributions
-    - how to get involved
-- Review of tools commonly used in open source projects
-    - version control
-    - communication: IRC as a meeting platform, mailing lists, wikis/blogs
-    - bug and issue trackers
-    - documentation
-    - collaborative development
-- Linux and Linux based tools for software development
-
-- Case studies of several open source projects
-    - small scale, single program projects (possibly humanitarian free open source projects - HFOSS)
-    - Mozilla software suit
-    - Eclipse
-    - large scale, multi program projects (example OpenMRS, Sakai)
-
-- Licensing
-    - types of licenses available and what is allowed
-    - how to license your own work
-    - avoiding plagiarism
-
-
-For detailed schedule, see the [Daily](daily.html) tab of this page.
+- Context, History, and Overview
+    - Principles of open source
+    - the Open Source Definition and the Free Software Definition and their ramifications    
+    - History and background of open source software    
+    - Open source culture and community    
+    - Open-ness in general: open source software and hardware, open data, open organizations (government, education, etc.)    
+    - Humanitarian open source software
+- Evaluating and Assessing Projects and Communities
+    - Measures of open source projects and communities: maturity, level of activity, friendliness, welcomeness and codes of conduct, size of code base
+    - Understanding and interpreting project metadata
+    - Evaluating the suitability of a project for the purpose of contributing to it
+    - Studies of selected projects
+- The Business of Open Source
+    - Business models: how money is made from open source software
+    - The role of open source software in the software industry
+    - Careers in open source
+- Contributing to Projects
+    - Types of contributions to open source projects (not only code)
+    - Ways of getting involved in projects
+    - Early non-coding contributions:
+        - Contributing to OpenStreetMap
+        - Contributing to Wikipedia
+    - Project guidelines: How to Contribute documents
+    - Behavior of the community: Codes of Conduct
+- Tools and Technology
+    - Programming Tools and Technology
+    - Document Preparation
+        - Markdown languages
+        - Documentation tools
+    - Collaborative software engineering tools
+        - Version control systems ( Git)
+        - Issue tracking
+    - Software engineering tools for distributed collaboration
+        - Communication tools (e.g., blogs, Slack, IRC)
+        - Remote, distributed version control platforms (e.g., GitHub, GitLab)
+        - Online, web-based issue trackers: Bugzilla, GitHub's issue tracker, others
+- Project Selection/Assignment
+    - Getting involved in the community
+    - Setting up project development environment
+    - Creating issues and identifying issues on which to work
+    - Resolving issues and submitting pull requests
+- Intellectual Property Rights and Licensing
+    - Intellectual property
+    - Copyrights, patents, and trademarks
+    - Types of software and non-software licenses
+    - Interpreting and choosing licenses
+- Team and Individual Reports
 
 
 
