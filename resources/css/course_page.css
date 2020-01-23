@@ -153,11 +153,11 @@ main .name {
 
 table{
   width: 80%;
-  margin:auto; 
+  margin:auto;
 }
 
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid purple;
 }
 th, td {
   padding: 0.5em;
