@@ -6,11 +6,11 @@ layout: default
 
 ## Preparedness / Attendance / Engagement  (PAE) 10%
 
-The success of the this class is in a large part up to you as its primary participants. My hope is that you will all engage in the material, prepare carefully and come to our meetings excited to participate in discussions and activities with your peers. If that happens then our meetings will be lively and interesting and we will be able to focus largely on the aspects of the material that are most interesting to you as a group. Plus, its good practice - many employers are now using [Group Discussions as a screening technique before or during interviews](https://www.reed.co.uk/career-advice/group-interview-tips-dos-and-donts/)!
+The success of this class is in a large part up to you as its primary participants. My hope is that you will all engage in the material, prepare carefully and come to our meetings excited to participate in discussions and activities with your peers. If that happens then our meetings will be lively and interesting and we will be able to focus largely on the aspects of the material that are most interesting to you as a group. Plus, it's good practice - many employers are now using [Group Discussions as a screening technique before or during interviews](https://www.reed.co.uk/career-advice/group-interview-tips-dos-and-donts/)!
 
 PAE is assessed for each student during each class period. Preparation includes completion of any reading, tutorials, exercises or activities assigned (based on the ability to participate in class discussion, answering questions, posing questions and posting comments before class). Attendance is your presence in class during our scheduled meetings. Engagement combines participation in discussion and activities with a demonstrated investment both in the material and the betterment of the class for everyone.
 
-PAE scores will be assigned according to the rubric below. The standard score in each category, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.  
+PAE scores will be assigned according to the rubric below. The standard score in each category, and what you should generally expect to receive, is a ✓. Something positively notable is required to move up to a ✓+ or ✓++,  and negatively notable down to 0 or ✓-.  
 
 
 |Score | Preparation |  Attendance| Engagement |
@@ -34,7 +34,7 @@ Posts will typically be 200-600 words. You are given wide latitude for the conte
 - go beyond a mere summary of the reading/discussion
 - include multimedia (images, audio, video, etc.) only as appropriate to enhance the content of the post. Be sure that if you use any external content that you are using it in a way that is allowed by its license.
 
-The blog posts will be assessed throughout the semester using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.  
+The blog posts will be assessed throughout the semester using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something positively notable is required to move up to a ✓+ or ✓++,  and negatively notable down to 0 or ✓-.  
 
 |Score | Timeliness |  Mechanics and Formatting| Writing and Content |
 |:---:|:---|:---|:---|
@@ -52,13 +52,13 @@ The blog posts will be assessed throughout the semester using the rubric below. 
 
 ## Activities / Exercises / Homework 10%
 
-Early in the semester there will be a number of in-class activities, tutorials and homework assignments designed to introduce you to some of the tools and techniques commonly used in FOSS projects (and in professional software development as well). Typically these assignments will require you to complete some tutorials and activities while keeping a Slack Live-Log (see below) of your work. .
+Early in the semester there will be a number of in-class activities, tutorials and homework assignments designed to introduce you to some of the tools and techniques commonly used in FOSS projects (and in professional software development as well). Typically these assignments will require you to complete some tutorials and activities while keeping a Slack Live-Log (see below) of your work.
 
-Tutorials and homework exercises will be assessed largely on completion and effort as documented by the associated Slack live-logs according to the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.  
+Tutorials and homework exercises will be assessed largely on completion and effort as documented by the associated Slack live-logs according to the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something positively notable is required to move up to a ✓+ or ✓++,  and negatively notable down to 0 or ✓-.   
 
 |Score | Activity |
 |:---:|:---|
-|0| Live-log entries are minimal or absent and/or provide little to no evidence of the progress and completion of the assigned work. OR live-log entries are inappropriate. |
+|0| Live-log entries are minimal or absent and/or provide little to no evidence of the progress and completion of the assigned work __or__ live-log entries are inappropriate. |
 |✓-| Live-log entries are vague, infrequent, or fail to sufficiently demonstrate an appropriate level of thoughtful engagement with the assignment.  |
 |✓ |  Live-log entries are sufficiently detailed, regular, clearly demonstrating the sufficient effort was made to thoughtfully engage with and understand the assignment. |
 |✓+| Live-logs meet criteria for ✓ __and__ demonstrate that students expanded on the assigned work in interesting, productive and/or creative ways. |
@@ -82,7 +82,7 @@ will be counted towards the grade.
 - Contributing fixes for existing issues in FOSS projects
 - ...
 
-The individual contributions should be documented on the _Contribution_ page of your individual blogs. They will be assessed three times during the course of the semester using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.  
+The individual contributions should be documented on the _Contribution_ page of your individual blogs. They will be assessed three times during the course of the semester using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something positively notable is required to move up to a ✓+ or ✓++,  and negatively notable down to 0 or ✓-.  
 
 
 |Score | Frequency / Regularity | Content |
@@ -104,7 +104,7 @@ In the second half of the semester, students will be working in groups of 3-4 st
 The group contributions should be documented on the wiki page for the group project.
 
 The six aspects of the group project will be assessed according to the rubric for each item below.
-The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.  
+The standard score, and what you should generally expect to receive, is a ✓. Something positively notable is required to move up to a ✓+ or ✓++,  and negatively notable down to 0 or ✓-. 
 
 ### Project selection and the initial presentation
 
@@ -112,7 +112,7 @@ Each project group should review several projects (following project evaluation 
 semester.
 Each project group will then give a presentation on their selected project/community.
 
-Project/community selection will be assessed based on the completion and quality of the preliminary exercises and the presentation according to rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.
+Project/community selection will be assessed based on the completion and quality of the preliminary exercises and the presentation according to rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something positively notable is required to move up to a ✓+ or ✓++,  and negatively notable down to 0 or ✓-. 
 
 |Score | Project Evaluation | Project Selection Presentation |
 |:---:|:---|:---|
@@ -123,6 +123,8 @@ Project/community selection will be assessed based on the completion and quality
 |✓++| Unused. | Unused. |
 
 ### Weekly five-fifteens
+
+A [five-fifteen report](https://www.contractingbusiness.com/archive/five-fifteen-report) is a short weekly templated report that is designed to enhance communication, reflection, prioritization, goal setting and time management without being time consuming. The name five-fifteen reflects that the report should take no more than five minutes to read and no more than fifteen minutes to write. See below for details.
 
 |Score | Individual 5-15 | Individual Accomplishments | Group/project 5-15 | Group Accomplishments |
 |:---:|:---|:---|:---|:---|
