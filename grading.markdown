@@ -219,3 +219,7 @@ There are two places in which contributions should be posted:
 - Contributions to the group project should be listed on the group project wiki page with the indicator which of the group members participated in completion of that contribution.
 
 Each contribution listing should contain links to publicly accessible documents, discussion forums, issue trackers, pull requests, etc.
+
+---
+
+The rubrics, descriptions and language adapted from https://github.com/braughtg/DickinsonHFOSS-SFC-Materials .
