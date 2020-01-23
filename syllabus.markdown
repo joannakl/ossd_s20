@@ -11,6 +11,7 @@ layout: default
 |<img src="{{site.book_required_image}}" name="Book" border="0px" width="120px">| **[{{ site.book_required }}]( {{ site.book_required_link }})** {{ site.book_required_edition }}<br> {{ site.book_required_author }} <br> {{ site.book_required_note }}  |
 -->
 
+|<img src="{{site.book_opt_7_image}}" name="Book" border="0px" width="120px">| **[{{ site.book_opt_7 }}]( {{ site.book_opt_7_link }})** {{ site.book_opt_7_edition }}<br> {{ site.book_opt_7_author }} <br> {{ site.book_opt_7_note }}  |
 |<img src="{{site.book_opt_1_image}}" name="Book" border="0px" width="120px">| **[{{ site.book_opt_1 }}]( {{ site.book_opt_1_link }})** {{ site.book_opt_1_edition }}<br> {{ site.book_opt_1_author }} <br> {{ site.book_opt_1_note }}  |
 |<img src="{{site.book_opt_5_image}}" name="Book" border="0px" width="120px">| **[{{ site.book_opt_5 }}]( {{ site.book_opt_5_link }})** {{ site.book_opt_5_edition }}<br> {{ site.book_opt_5_author }} <br> {{ site.book_opt_5_note }}  |
 |<img src="{{site.book_opt_6_image}}" name="Book" border="0px" width="120px">| **[{{ site.book_opt_6 }}]( {{ site.book_opt_6_link }})** {{ site.book_opt_6_edition }}<br> {{ site.book_opt_6_author }} <br> {{ site.book_opt_6_note }}  |

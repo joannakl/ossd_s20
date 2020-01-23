@@ -97,3 +97,11 @@ book_opt_6_edition: ""
 book_opt_6_link: "http://www.catb.org/~esr/writings/cathedral-bazaar/"
 book_opt_6_note: "printed version available from [O'Railly](http://shop.oreilly.com/product/9781565927247.do)"
 book_opt_6_image: "https://upload.wikimedia.org/wikipedia/en/c/c4/Cathedral-and-the-Bazaar-book-cover.jpg"
+
+
+book_opt_7: "Forge Your Future with Open Source, "
+book_opt_7_author: "VM (Vicky) Brasseur, "
+book_opt_7_edition: ""
+book_opt_7_link: "https://pragprog.com/book/vbopens/forge-your-future-with-open-source"
+book_opt_7_note: "both print and digital versions available "
+book_opt_7_image: "https://imagery.pragprog.com/products/542/vbopens_xlargecover.jpg?1516635915"
