@@ -45,6 +45,18 @@ This course prepares students to become active participants in open source proje
 
 __The students are expected to contribute to existing open source projects.__
 
+
+## Objectives and Outcomes
+
+The objectives and outcomes are explained in the course syllabus. The objectives are repeated here. Students who successfully complete this course:
+-   will be able to explain to others the nature of open source software, particularly how it differs from proprietary software;
+-   will be able to evaluate open source software projects with respect to their maturity, level of activity, community friendliness, and complexity;
+-   will be able to find suitable open source software projects in which to participate;
+-   will become a contributing member of a software development community;
+-   will be able to choose an appropriate license for their creative works in general and to explain what can and cannot be done with software that has a specific license;
+-   will be able to explain how software licensing works in general, what choices of license exist; and
+-   will be able to give several examples of the ways in which companies earn money in the open source ecosystem.
+
 # Why Open Source Matters and Why Should You Care?
 ---
 
