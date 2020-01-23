@@ -148,7 +148,7 @@ Project/community selection will be assessed based on the completion and quality
 
 
 
-|Score | Balance | Time organization | Preparedness and Organization | Engagement/Accessibility | Visual Aids |
+|Score | Balance | Time organization | Preparedness and Organization | Engagement and Accessibility | Visual Aids |
 |:---:|:---|:---|:---|:---|:---|
 |0| Presentation delivered by a single group member with no or little engagement from the other group members.  |  Very brief presentation.  | Chaotic and hard to follow presentation.  | Presentation not engaging and/or not accessible to the audience (too technical or not providing enough details for someone who is not involved in the project.)  | No form of visual aids used.   |
 |✓-| Presentation not well balanced between the group members. | Presentation too long or too short and/or not balanced in terms of time between different parts.  | Presentation lacking in organization with the group members not well coordinated and not sure what comes next.   | Some parts of presentation are not accessible to the audience and/or are not sufficiently engaging.   |  Visual aids not well organized or planned, not easy to follow and/or at times distract from the actual presentation.  |
@@ -159,6 +159,10 @@ Project/community selection will be assessed based on the completion and quality
 
 
 ## In-class Assessments: 10%
+
+Each student will complete several in-class brief assessments (~10minutes). These assessments will be based on the assigned readings, class discussions, lectures and completed activities. The format of the assessments will be primarily short answers and multiple choice types of questions.
+
+
 
 # Time and Effort Documentation
 
@@ -208,3 +212,10 @@ Each Team 5-15 must have the headings given below and each must be followed by a
 8.  What steps will the team take to accomplish that? Who? When?
 
 ## Contributions List
+
+Each student is responsible for updating the list of contributions.
+There are two places in which contributions should be posted:
+- Individual contributions should be posted on student's blog site in the tab titled _Contributions_.
+- Contributions to the group project should be listed on the group project wiki page with the indicator which of the group members participated in completion of that contribution.
+
+Each contribution listing should contain links to publicly accessible documents, discussion forums, issue trackers, pull requests, etc.
