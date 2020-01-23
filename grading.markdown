@@ -80,6 +80,7 @@ will be counted towards the grade.
 - Comments on issues of FOSS projects
 - Reporting issues for FOSS projects
 - Contributing fixes for existing issues in FOSS projects
+- ...
 
 The individual contributions should be documented on the _Contribution_ page of your individual blogs. They will be assessed three times during the course of the semester using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.  
 
@@ -96,10 +97,8 @@ The individual contributions should be documented on the _Contribution_ page of 
 
 In the second half of the semester, students will be working in groups of 3-4 students on contributions to a selected project. Each student's contributions to this group effort will be assessed individually based on several checkpoints:
 - project selection and the initial presentation
-- weekly five-fifteens (see below)
+- weekly five-fifteens (see below) for individual members and the group
 - Slack live-logs
-- interaction with the community
-- contributions made to the project
 - final presentation
 
 The group contributions should be documented on the wiki page for the group project.
@@ -130,8 +129,47 @@ The standard score, and what you should generally expect to receive, is a ✓. S
 
 ## Slack Live-Logs
 
+All students will be required to keep Slack Live-Logs for
+- the early activities, tutorials and homework assignments, as described above
+- the group work on a selected group project (every time the group, or part of the group, meets to work on the project)
+
+A Slack Live-Log is just a series of messages posted to a Slack channel as you work. The messages should paint a rough picture of what you are doing, when you did it and any other interesting/useful tidbits to be remembered while you are working. Ideally, when working in a pair, one partner will be controlling the machine where the project work is happening and the other will be live-logging on another machine. These roles should be swapped regularly. It is not necessary to document every tiny thing, and you don't have to use polished language, grammar and punctuation. You can see a sample live-log in the sample-live-log channel in the OSSD Slack team.
+
+For homework assignments the Slack Live-Log will be used to demonstrate that you have worked through the appropriate exercises, tutorials and assignments.
+
+For FOSS Project work the Slack Live-Log will be used to demonstrate an appropriate investment of time and quality effort in the project work, as well as to document your progress through the project guides. Each of you has different experience and every FOSS project has different technical challenges. Thus, some tasks will be easier (or harder) than others and what is accomplished will vary between teams, from week-to-week and between projects. Thus, rather than relying solely on final products for credit teams will be expected to invest an appropriate amount of time and effort on their project work each week. Slack Live-Logs provide the mechanism for documenting the time and effort invested in the project.
+
+In addition to keeping a record of what a team has done and how long it has worked, these live-logs are intended to encourage teams to practice and demonstrate that they are working via steady, sustained engagement rather than in long irregular bursts. Working via steady, sustained engagement is more effective, more productive and less frustrating than working in long irregular bursts. It allows time to process information, generate new ideas, communicate with faculty, peers and the project's development community.
 
 ## Five-Fifteens
 
+A [five-fifteen report](https://www.contractingbusiness.com/archive/five-fifteen-report) is a short weekly templated report that is designed to enhance communication, reflection, prioritization, goal setting and time management without being time consuming. The name five-fifteen reflects that the report should take no more than five minutes to read and no more than fifteen minutes to write.
+
+We will use two types of 5-15 reports to reflect on your accomplishments, your self and your team, and to identify and plan future work.
+
+All 5-15's will be maintained in a project wiki page with the most recent entry at the top.
+
+_Individual 5-15_
+
+Each individual 5-15 must have the headings given below and each must be followed by a few sentences or an annotated list. Ideally each team member will write their individual 5-15 before the team writes its 5-15.
+
+1.  Period Ending (mm/dd/yyyy)
+2.  What did my team accomplish?
+3.  How did I contribute to those accomplishments?
+4.  What did I learn / How did I improve?
+5.  How can I improve?
+
+_Team 5-15_
+
+Each Team 5-15 must have the headings given below and each must be followed by a few sentences or an annotated list. Successive 5-15s should relate back to prior 5-15s to make clear how things that were planned turned into accomplishments, how thoughts on how to improve team function were enacted, how challenges/roadblocks were overcome, etc.
+
+1.  Period Ending (mm/dd/yyyy)
+2.  What were the team's accomplishments?
+3.  What Interactions did the team have with the community? Include links to any interactions that are publicly accessible (e.g. posting to list serve, comment on an issue, etc.)
+4.  What Contributions did the team make to the community? Include links to any publicly accessible contributions (e.g. documents, pages, new/refined/edited/closed tickets, pull requests, etc.)
+5.  How is the team functioning? How can it be improved?
+6.  What technical challenges/roadblocks does the team face?
+7.  What's next?
+8.  What steps will the team take to accomplish that? Who? When?
 
 ## Contributions List
