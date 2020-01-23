@@ -169,6 +169,15 @@ th, td {
 td{
   font-size: 0.75em;
 }
+
+.books table{
+  border:0px;
+  padding: 0.5em;
+  vertical-align: top;
+  font-size: 1em;
+  margin: inherit; 
+}
+
 /**************/
 .lecture1 {
   clear: left;
