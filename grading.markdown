@@ -148,6 +148,15 @@ Project/community selection will be assessed based on the completion and quality
 
 
 
+|Score | Balance | Time organization | Preparedness and Organization | Engagement/Accessibility | Visual Aids |
+|:---:|:---|:---|:---|:---|:---|
+|0| Presentation delivered by a single group member with no or little engagement from the other group members.  |  Very brief presentation.  | Chaotic and hard to follow presentation.  | Presentation not engaging and/or not accessible to the audience (too technical or not providing enough details for someone who is not involved in the project.)  | No form of visual aids used.   |
+|✓-| Presentation not well balanced between the group members. | Presentation too long or too short and/or not balanced in terms of time between different parts.  | Presentation lacking in organization with the group members not well coordinated and not sure what comes next.   | Some parts of presentation are not accessible to the audience and/or are not sufficiently engaging.   |  Visual aids not well organized or planned, not easy to follow and/or at times distract from the actual presentation.  |
+|✓ | Presentation well balanced between the group members. | Presentation of appropriate length with a good balance of time spent on each part.  |  Presentation well organized with clear flow through different parts.  |  Presentation is sufficiently engaging and accessible to the audience. |  Visual aids used effectively to guide the audience through the presentation.  |
+|✓+| Presentation well balanced between the group members and is exceptionally well coordinated in terms of taking turns. | Unused.  | Unused  | Presentation is exceptionally engaging.  |  Visual aids meet criteria for ✓ __and__ are exceptionally well organized and/or significantly enhance the quality of the presentation. |
+|✓++| Unused.| Unused. |    Unused. |  Presentation is exceptionally engaging and demonstrates creativity, is exceptionally insightful, thought provoking. | Visual aids meet criteria for ✓+ __and__  are exceptionally creative and/or insightful. |
+
+
 
 ## In-class Assessments: 10%
 
