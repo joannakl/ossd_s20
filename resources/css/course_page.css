@@ -152,7 +152,8 @@ main .name {
 }
 
 table{
-  width: 80%; 
+  width: 80%;
+  margin:auto; 
 }
 
 table, th, td {
