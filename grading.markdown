@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Grading Components
+
 ## Preparedness / Attendance / Engagement  (PAE) 10%
 
 The success of the this class is in a large part up to you as its primary participants. My hope is that you will all engage in the material, prepare carefully and come to our meetings excited to participate in discussions and activities with your peers. If that happens then our meetings will be lively and interesting and we will be able to focus largely on the aspects of the material that are most interesting to you as a group. Plus, its good practice - many employers are now using [Group Discussions as a screening technique before or during interviews](https://www.reed.co.uk/career-advice/group-interview-tips-dos-and-donts/)!
@@ -54,22 +56,57 @@ Early in the semester there will be a number of in-class activities, tutorials a
 
 Tutorials and homework exercises will be assessed largely on completion and effort as documented by the associated Slack live-logs according to the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.  
 
-
-
 |Score | Activity |
 |:---|:---|
 |0| Live-log entries are minimal or absent and/or provide little to no evidence of the progress and completion of the assigned work. OR live-log entries are inappropriate. |
 |✓-| Live-log entries are vague, infrequent, or fail to sufficiently demonstrate an appropriate level of thoughtful engagement with the assignment.  |
 |✓ |  Live-log entries are sufficiently detailed, regular, clearly demonstrating the sufficient effort was made to thoughtfully engage with and understand the assignment. |
-|✓+| Live-logs meet criteria for ✓ __and__ demonstrate that students expanded on the assigned work in __exceptionally__ interesting, productive and/or creative ways. |
+|✓+| Live-logs meet criteria for ✓ __and__ demonstrate that students expanded on the assigned work in interesting, productive and/or creative ways. |
 |✓++| Unused. |
 
 
 
 ## Individual Contributions to FOSS projects: 20%
 
+Throughout the semester students are expected to make regular _individual_ contributions (the contributions to one's selected group project are not included in the individual contributions unless they were made prior to group formation and selection of the project). The nature of these contributions will change in the course of the semester, but they should be done regularly (not in bursts) throughout the first 10 weeks of the semester. (At the end of the semester, students should concentrate on
+their group projects and the level of individual contributions will naturally decrease.)
+
+The examples of individual contributions are shown below. This is __not__ and exclusive list and most individual contributions to _open_ projects (not necessarily source code)
+will be counted towards the grade.
+- Wikipedia edits
+- OpenStreet Map edits
+- Comments on existing issues, reporting of new issues and submitting fixes for other student blog repositories
+- Comments on existing issues, reporting of new issues and submitting fixes for the course website
+- Comments on issues of FOSS projects
+- Reporting issues for FOSS projects
+- Contributing fixes for existing issues in FOSS projects
+
+The individual contributions should be documented on the _Contribution_ page of your individual blogs. They will be assessed three times during the course of the semester using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or ✓++,  or down to 0 or ✓-.  
+
+
+|Score | Frequency / Regularity | Content |
+|:---|:---|:---|
+|0| Very few contributions  or all contributions made in one burst. | All contributions are trivial.  |
+|✓- | Few contributions but made regularly throughout the evaluated period OR satisfactory number of contributions but made in bursts.   | Many contributions are trivial with a few providing meaningful benefit to the project. |
+|✓ |  Satisfactory number of contributions that are made regularly throughout the evaluated period.  | Contributions clearly benefit the project and communities around that project. |
+|✓+|  Contributions meet criteria for ✓  and there is unusually large number of significant contributions.  | Contributions meet criteria for ✓ and some of the
+contributions are significant in terms of challenge that they posed during the issue resolution or benefit that they provide to the community. |
+|✓++| Unused. | Contributions meet criteria for ✓+  and have been received with exceptional enthusiasm by the community of the project. |
 
 ## Group Project (individual's contributions to the group  project): 30%
 
 
+
+
+
 ## In-class Assessments: 10%
+
+# Time and Effort Documentation
+
+## Slack Live-Logs
+
+
+## Five-Fifteens
+
+
+## Contributions List
