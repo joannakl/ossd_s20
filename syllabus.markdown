@@ -18,7 +18,6 @@ layout: default
 |<img src="{{site.book_opt_3_image}}" name="Book" border="0px" width="120px">| **[{{ site.book_opt_3 }}]( {{ site.book_opt_3_link }})** {{ site.book_opt_3_edition }}<br> {{ site.book_opt_3_author }} <br> {{ site.book_opt_3_note }}  |
 |<img src="{{site.book_opt_4_image}}" name="Book" border="0px" width="120px">| **[{{ site.book_opt_4 }}]( {{ site.book_opt_4_link }})** {{ site.book_opt_4_edition }}<br> {{ site.book_opt_4_author }} <br> {{ site.book_opt_4_note }}  |
 
-
 # Other Open Source Resources
 ---
 
