@@ -152,7 +152,7 @@ main .name {
 }
 
 
-main#grades table, th, td {
+main table, th, td {
   border: 0px solid White;
 }
 
@@ -175,13 +175,6 @@ main#grades td{
   font-size: 0.75em;
 }
 
-.books table{
-  border:0px;
-  padding: 0.5em;
-  vertical-align: top;
-  font-size: 1em;
-  margin: inherit;
-}
 
 /**************/
 .lecture1 {
