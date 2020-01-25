@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: grades
 ---
 
 # Grading Components
@@ -104,7 +104,7 @@ In the second half of the semester, students will be working in groups of 3-4 st
 The group contributions should be documented on the wiki page for the group project.
 
 The six aspects of the group project will be assessed according to the rubric for each item below.
-The standard score, and what you should generally expect to receive, is a ✓. Something positively notable is required to move up to a ✓+ or ✓++,  and negatively notable down to 0 or ✓-. 
+The standard score, and what you should generally expect to receive, is a ✓. Something positively notable is required to move up to a ✓+ or ✓++,  and negatively notable down to 0 or ✓-.
 
 ### Project selection and the initial presentation
 
@@ -112,7 +112,7 @@ Each project group should review several projects (following project evaluation 
 semester.
 Each project group will then give a presentation on their selected project/community.
 
-Project/community selection will be assessed based on the completion and quality of the preliminary exercises and the presentation according to rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something positively notable is required to move up to a ✓+ or ✓++,  and negatively notable down to 0 or ✓-. 
+Project/community selection will be assessed based on the completion and quality of the preliminary exercises and the presentation according to rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something positively notable is required to move up to a ✓+ or ✓++,  and negatively notable down to 0 or ✓-.
 
 |Score | Project Evaluation | Project Selection Presentation |
 |:---:|:---|:---|

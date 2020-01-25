@@ -151,22 +151,22 @@ main .name {
   font-variant: small-caps;
 }
 
-table{
+main#grades table{
   width: 80%;
   margin:auto;
 }
 
-table, th, td {
+main#grades table, th, td {
   border: 1px solid purple;
 }
-th{
+main#grades th{
   margin: auto;
 }
-th, td {
+main#grades th, td {
   padding: 0.5em;
   vertical-align: top;
 }
-td{
+main#grades td{
   font-size: 0.75em;
 }
 
@@ -175,7 +175,7 @@ td{
   padding: 0.5em;
   vertical-align: top;
   font-size: 1em;
-  margin: inherit; 
+  margin: inherit;
 }
 
 /**************/
