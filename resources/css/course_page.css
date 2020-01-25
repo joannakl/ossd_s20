@@ -153,28 +153,29 @@ main .name {
 
 
 
-main#grades table{
+table,  th,  td {
+  border: 0px solid white;
+}
+
+.grades table{
   width: 80%;
   margin:auto;
 }
 
-main#grades table, th, td {
+.grades table,.grades  th, .grades td {
   border: 1px solid purple;
 }
-main#grades th{
+.grades th{
   margin: auto;
 }
-main#grades th, td {
+.grades th, td {
   padding: 0.5em;
   vertical-align: top;
 }
-main#grades td{
+.grades td{
   font-size: 0.75em;
 }
 
-main table, th, td {
-  border: 0px solid white;
-}
 
 /**************/
 .lecture1 {
