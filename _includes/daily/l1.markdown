@@ -52,7 +52,6 @@ __Due immediately__:
 
 
 __Due by next class (Wednesday)__:
-- watch the talk by Kevin P Fleming
 - complete the [blog/slack/wiki/...](activities/blog_slack_wiki_git,html) activity
 
 __Due by the end of the week (Sunday, 2/2/)__:
