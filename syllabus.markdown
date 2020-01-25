@@ -53,6 +53,46 @@ and save millions of taxpayer dollars for the American people."
 - willingness to share and collaborate
 
 
+
+
+# Grading  (exact grading rules subject to change by the beginning of the spring semester)
+---
+
+Your grade will be based on:
+
+* preparedness / attendance / engagement: 10%
+* blogs / reflective writing:  20%
+* activities / exercises / homework: 10%
+* individual contributions to open source projects: 20%
+* group project (individual's contributions to the group  project): 30%
+* in-class assessments: 10%
+
+__Here are the [details](grading.html) of how each category is going to be assessed.__
+
+<!--
+: exams and quizzes
+* contributions (40%): these include contributions to existing open source projects both individual and in groups (details to be discussed at the
+beginning of the semester)  
+* homework (10%): weekly blog posts (answering homework prompts, reflecting on readings, contributions and activities), and other forms of homework assignments
+* participation (10%): in-class discussions, in-class team work and report-outs
+-->
+
+Grades will be determined using the following scale:
+
+        A   95-100
+        A-  90-95
+        B+  87-90
+        B   83-87
+        B-  80-83
+        C+  76-80
+        C   72-76
+        D   65-72
+        F   less than 65
+
+
+The grade of *Incomplete* is reserved for students who, for legitimate and documented reason, miss the final exam. The grade of *Incomplete* **will not be given** to student who started falling behind in class. Those students should withdraw from the class or switch to *Pass/Fail* option.
+
+
 # Topics Covered (exact list of topics  and their order subject to change, for detailed schedule, see the [Daily](daily.html) tab of this page. )
 
 - Context, History, and Overview
@@ -102,46 +142,6 @@ and save millions of taxpayer dollars for the American people."
     - Types of software and non-software licenses
     - Interpreting and choosing licenses
 - Team and Individual Reports
-
-
-
-
-# Grading  (exact grading rules subject to change by the beginning of the spring semester)
----
-
-Your grade will be based on:
-
-* preparedness / attendance / engagement: 10%
-* blogs / reflective writing:  20%
-* activities / exercises / homework: 10%
-* individual contributions to open source projects: 20%
-* group project (individual's contributions to the group  project): 30%
-* in-class assessments: 10%
-
-Here are the [details](grading.html) of how each category is going to be assessed and graded.
-
-<!--
-: exams and quizzes
-* contributions (40%): these include contributions to existing open source projects both individual and in groups (details to be discussed at the
-beginning of the semester)  
-* homework (10%): weekly blog posts (answering homework prompts, reflecting on readings, contributions and activities), and other forms of homework assignments
-* participation (10%): in-class discussions, in-class team work and report-outs
--->
-
-Grades will be determined using the following scale:
-
-        A   95-100
-        A-  90-95
-        B+  87-90
-        B   83-87
-        B-  80-83
-        C+  76-80
-        C   72-76
-        D   65-72
-        F   less than 65
-
-
-The grade of *Incomplete* is reserved for students who, for legitimate and documented reason, miss the final exam. The grade of *Incomplete* **will not be given** to student who started falling behind in class. Those students should withdraw from the class or switch to *Pass/Fail* option.
 
 
 # Academic Integrity Policy
