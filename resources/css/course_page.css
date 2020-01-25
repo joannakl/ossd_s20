@@ -152,9 +152,6 @@ main .name {
 }
 
 
-main table, th, td {
-  border: 0px solid White;
-}
 
 main#grades table{
   width: 80%;
@@ -175,6 +172,9 @@ main#grades td{
   font-size: 0.75em;
 }
 
+main table, th, td {
+  border: 0px solid white;
+}
 
 /**************/
 .lecture1 {
