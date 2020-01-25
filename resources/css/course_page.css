@@ -151,6 +151,11 @@ main .name {
   font-variant: small-caps;
 }
 
+
+main#grades table, th, td {
+  border: 0px solid White;
+}
+
 main#grades table{
   width: 80%;
   margin:auto;
