@@ -11,7 +11,7 @@ Wed, 1/29
 <div class="column_materials">
 <p markdown="block">
 
-
+[Introduction to FOSS](slides/introduction.html)
 
 </p>
 </div>
@@ -25,4 +25,3 @@ Wed, 1/29
 </div>
 
 </div>
-

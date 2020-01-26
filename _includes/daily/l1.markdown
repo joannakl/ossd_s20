@@ -52,7 +52,7 @@ __Due immediately__:
 
 
 __Due by next class (Wednesday)__:
-- complete the [blog/slack/wiki/...](activities/blog_slack_wiki_git,html) activity
+- complete the [blog/slack/wiki/...](activities/blog_slack_wiki_git.html) activity
 
 __Due by the end of the week (Sunday, 2/2/)__:
 - install a recent version of Firefox on your computer (if not there already)

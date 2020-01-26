@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Introduction</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <link href="css/slides.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# CSCI-UA 480.10: OSSD
+## Open Source Software Development
+
+<br>
+
+## Introduction to Open Source
+
+.author[
+Instructor: Joanna Klukowska <br>
+<!--
+adapted from slides for CSCI-UA.002 by D. Engle, C. Kapp and J. Versoza
+-->
+]
+
+.license[
+This work is based on slides written by Stewart Weiss, released under a CC BY 4.0 license,
+which may be found at [cs395.86 website](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci395.86/cs395.86_s20.php).
+
+Unless noted otherwise all content is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+]
+
+---
+
+class: center, middle
+
+# Open ...
+
+---
+
+## Open Source Is Not Just the Code
+
+- Open source software is more than just software whose code is available.
+
+- It is inseparable from the community of people who contribute to it, who use it,
+  and who actively work to support it in a myriad number of ways.
+
+- It is inseparable from the philosophy of sharing and freedom that spawned the
+  **Free and Open Source Software**  movements.
+
+- Open source is
+    - an idea,
+    - a philosophy that software should be **Free**,
+    - a method of building software that involves people working together towards
+    a common, shared goal, within a social structure of their own making, created
+    with the hope that it ensures the project's success.
+
+- If you do not "buy into" this view, you will waste a lot of time trying to
+  contribute to a project.
+
+---
+
+## Open Source Software is Everywhere
+
+- Free and open source software is all around us, more than you probably realize.
+  Some examples:
+
+  - The code that secures Internet transactions, _OpenSSL_;
+  - The _Android_ operating system in many smartphones;
+  - The _Firefox_ browser;
+  - The _Linux_ kernel and operating system;
+  - The code that many web developers use to build web pages, such as _Wordpress_ and
+    _Drupal_.
+  - The _Eclipse__ IDE that you most likely used in earlier classes.
+
+
+- Name some others that you use.
+
+- Look at [The Octoverse 2019](https://octoverse.github.com/), a report produced
+  by _GitHub_,  to see just how much activity happened in 2019 surrounding
+  free and open source software.
+
+---
+
+## Supporting Institutions
+
+- There are many, many institutions that support free and open source software.
+  Some of the major ones in the U.S. are:
+
+  - [The Free Software Foundation](https://www.fsf.org)
+
+  - [The Open Source Initiative](https://opensource.org)
+
+  - [The Software Freedom Conservancy](https://sfconservancy.org)
+
+  - [The Mozilla Foundation](https://foundation.mozilla.org)
+
+  - [The Linux Foundation](https://www.linuxfoundation.org)
+
+  - [The Creative Commons](https://creativecommons.org)
+
+  and there are many others around the world.
+
+---
+
+## Openness In General
+
+- The free and open source software movement paved the way for a more general
+  _philosophy of open access_, sometimes dubbed the __Open Source Way__
+  (see [The open source way](https://opensource.com/open-source-way)) or simply
+  __Openness__.
+
+  - Open encyclopedias such as [Wikipedia](https://wikipedia.org)
+
+  - Open digital libraries such as [Internet Archive](https://archive.org)
+
+  - Open maps such as [OpenStreetMap](https://www.openstreetmap.org)
+
+  - Open data in general. There are thousands of open data sets. Government ones
+    include:
+      - municipalities like New York City: [NYC Open Data](https://opendata.cityofnewyork.us)
+      - states, like New York State: [New York State Open Data](https://data.ny.gov/)
+      - the federal government: [United States Open Government](https://www.data.gov/open-gov/)
+
+    and many, many more.
+
+---
+
+class: center, middle
+
+# The Origin
+# -
+# The Four Freedoms
+# -
+# The Open Source Software Definition
+
+---
+
+## So How Did This Start?
+
+- The earliest commercial computers were shipped with their own _operating code_
+  so that   users could customize the code for their needs.
+
+  - There were no manuals, no instructions, no help from vendors for the shipped software -
+  __users just had to figure it all out on their own__.
+
+  - Code-sharing was common: It was a __culture of sharing__.
+--
+
+- Typical hardware business model:
+    - Buyers paid for hardware, the software did not matter much because it
+      was not standardized - it worked only on the purchased hardware.
+
+    - __Software had NO monetary value__.
+
+---
+## Free Software's Origins
+
+- During the 1970's software became a commodity: companies started selling it
+  for profit.
+
+- Code became proprietary and closed.
+
+- The era of personal computers (PCs) arrived.
+  Almost all are shipped with proprietary,   closed code.
+
+- In 1983, Richard M. Stallman (RMS), who worked in the
+  Artificial Intelligence Lab at MIT,
+  got fed up with not having access to the source code  for the software of a
+  newly installed laser printer.
+
+- Stallman set out on a mission to found a movement that would have profound
+  effects on the world of computers. He wrote on _Usenet_ [1]
+
+  .centered_80[ _Starting this Thanksgiving I am going to write a complete Unix-compatible
+  software system called GNU (for Gnu's Not Unix), and give it away
+  free to everyone who can use it._
+  ]
+
+.footnote[
+1 _Producing Open Source Software_ by Karl Fogel
+]
+
+---
+
+## GNU and the Free Software Foundation
+
+- In 1985, RMS wrote the [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html)
+  and founded the  __Free Software Foundation__ (__FSF__)
+  to support the free software projects.
+
+- He defined the __Four Freedoms__ as the core tenets of the Free Software
+  Movement (purposely starting with number zero) <br>
+
+  .centered_80[.zero_list[
+1. _The freedom to run the software however you wish and for whatever reason you wish._
+1. _The freedom to study the software source code and make whatever changes you wish._
+1. _The freedom to copy and distribute the software (modified or not) however you wish._
+1. _The freedom to make improvements to the software and then share the improved version however you wish._
+]]
+
+  Any software that does not guarantee these freedoms to its users cannot be
+  considered “free” because it limits the users’ rights in some way.
+
+---
+
+##  Software Licenses and the GPL
+
+- RMS and the  FSF invented a class of __software licenses__ that turned copyright
+  on its head, and they named them __copyleft__ licenses.
+
+- Copyleft software licenses  ensure that
+  software can never violate the Four Freedoms.
+
+- The invention of these licenses is probably his most significant contribution
+  to software; it really  paved the way for the open source movement that followed.
+
+---
+
+
+
+## The Open Source Movement's Origins
+
+
+- On January 22, 1998, _Netscape_ released its browser _Netscape Navigator_
+  together with its source code, drawing attention of businesses.[2]
+
+- Although interested in the concept, businesses were not keen on the politics
+  of the FSF and the Free Software movement.
+
+- In February, Christine Peterson suggested "open source" to replace "free"
+  to make the idea more appealing to businesses.
+
+- Later that month the __Open Source Initiative__ (__OSI__) was created by a group of
+  advocates, with the mission of explaining and protecting the "open source label".
+
+.footnote[
+2 https://blog.lizardwrangler.com/2008/01/22/january-22-1998-the-beginning-of-mozilla/
+]
+---
+
+## The Open Source Definition
+
+- OSI created a definition of open source software that was more detailed than
+  Stallman's Free Software Definition, and called it the
+   __Open Source Definition__ (__OSD__).
+--
+
+- The OSD can be found on the OSI website:
+  [opensource.org/osd](https://opensource.org/osd)
+- __The OSD defines valid software licenses__.
+- The software license is what determines whether software is open source!
+--
+<br><br>
+- The OSD has ten separate requirements;  the first three, abridged, are:
+    1. _The license cannot restrict anyone from selling or giving away the
+    software as part of an aggregate software distribution containing
+    programs from several sources._
+    2. _The program must include source code and allow distribution in
+    source code as well as compiled form._
+    3. _The license must allow modifications and derived works, and must
+    allow them to be distributed under the same terms as the license of
+    the original software._
+--
+<br><br>
+- __If the license does not meet the definition, it is not open source!__
+--
+
+- __If there is NO license, it is not open source!__
+   (It is __code available__, not open source)
+
+---
+
+## Free vs. Open Source
+
+- There was and still is much contention about Free versus Open Source software.
+
+- The difference is mostly philosophical:
+
+   - The Four Freedoms and Free software  express an ideology and a moral point.
+
+   - The OSI OSD expresses a practical system for supporting the expansion and
+     growth of open source, acceptable to business interests.
+
+--
+
+- Many people use the term __Free and Open Source Software__ (__FOSS__) to
+  avoid the contention. (We will use this convention in this class.)
+
+--
+
+- Some people go further and use the term __Free Libre and Open Source Software__,
+  aka __FLOSS__ to stress the "free" as in freedom, not "free" as in free beer.
+
+---
+
+class: center, middle
+
+# Copyright and Licenses
+
+---
+
+## Overview of Copyright and Licenses
+
+- Whether software is FOSS depends on its license.
+
+- A license can only be applied by the copyright holder.
+
+--
+
+- So ...
+    - what is a license?
+    - what is copyright?
+
+
+---
+
+## Copyright in a Nutshell
+
+- Roughly, __copyright__ is the legal right granted to the creator of a creative
+  work to the exclusive publication, production, sale, or distribution of that work.
+
+- Usually the creator does not have to do anything to own that copyright.
+  (This varies from one country to another.)
+
+--
+
+- By default, the creator has _All Rights Reserved_,
+  meaning no one has the right to do anything with the work except to use it as
+  is  allowed (e.g., listen to it, read it, view it, run it, and so on.)[3]
+
+- When all rights are reserved by the copyright owner, others cannot copy,
+  reuse, redistribute, or do anything other than use the work.
+
+- The copyright owner __controls__ what can be done.
+
+.footnote[
+3 There is an international _fair use_ doctrine that specifies what are allowed
+uses for different kinds of works.
+]
+
+---
+
+## Licenses in a Nutshell
+
+- If you want to give others the _permission_ to do certain things with your work,
+  you do that by issuing a __license__.
+
+- A __license__ is a legal document that gives people permission to do specific things with
+  the copyrighted work.
+
+
+---
+
+## Different Types of FOSS Licenses
+
+- There are many different FOSS licenses. It is a daunting number.
+
+- OSI has a list of licenses that are OSI-approved. See
+  [https://opensource.org/licenses](https://opensource.org/licenses/).
+
+- They fall mostly into two categories: _copyleft_ and _permissive_.
+
+--
+
+- Both copyleft and permissive licenses require that anyone who uses works
+ licensed under them must have permission to view, modify, and share the source.
+
+--
+
+- Permissive licenses allow someone who modifies the work and redistributes it
+ to change the terms under which someone can use the new, modified work.
+  Copyleft licenses do not.
+--
+
+- This is a simplification. It is more complicated than this; some licenses
+  are more permissive than others and there are other complications.
+
+
+---
+
+## Common FOSS Licenses
+
+- Some common permissive licenses:
+
+   - The Apache License
+   - The BSD License
+   - The MIT License
+
+- Some common copyleft licenses:
+
+   - The GNU Public License
+   - The GNU Affero Public License
+   - GNU Lesser General Public License
+
+- Hybrids:
+
+   - The Mozilla Public License (weakly copyleft)
+
+---
+
+## Community and Software Licenses
+
+- When a software work has been written by many people,
+  each person retains copyright over the portions that they
+  contributed to the whole work.
+
+- It would be  hard for decisions to be made about what can be done with that
+  software if each copyright owner had a different set of rights.
+
+- Putting a project under a free and open source software license can simplify
+  who can do what.
+
+- For example, most FOSS licenses require contributions to a project to be
+  contributed and released under the same license as the original work.
+
+--
+
+    - If you contribute to a project with an OSI approved license,
+    you still keep the copyright over your work, but your
+    contribution is covered by the same license as the project and is open source.
+--
+
+   - This means your code is shareable, not secret.
+
+--
+
+   - It can be part of your portfolio.
+
+--
+
+   - You can show it to a prospective employer.
+
+---
+
+##  FOSS versus Not FOSS
+
+- If you write code for an employer, whether as employee, intern, or even
+  as an independent contractor, it is __work for hire__ (unless otherwise agreed upon in writing ahead of time).
+
+- Work for hire is any created work that can be copyrighted like songs, stories,
+  essays, sculptures, paintings, graphic designs, or computer programs.
+
+--
+
+- Beware:
+
+    - You do not own the copyright.
+
+    - You cannot share your code with anyone or put it in your portfolio.
+
+    - You cannot show it to a prospective employer.
+
+---
+
+## Sources
+
+
+1. VM Brasseur, _Forge Your Future with Open Source_, The Pragmatic Programmers, LLC. 2018.
+
+1. Karl Fogel, _Producing Open Source Software: How to Run a Successful
+   Free Software Project_, O'Reilly Media, 2009.
+
+1. https://www.gnu.org/philosophy/free-sw.html
+
+1. https://blog.lizardwrangler.com/2008/01/22/january-22-1998-the-beginning-of-mozilla
+
+1. https://opensource.org/licenses
+
+
+---
+
+
+
+
+
+
+    </textarea>
+     <script src="js/remark.js" type="text/javascript">
+    </script>
+    <script src="js/remark_conf.js" type="text/javascript">
+    </script>
+
+  </body>
+</html>
