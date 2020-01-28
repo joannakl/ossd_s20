@@ -21,7 +21,7 @@ title:
 
 
 <p class="hang" markdown="1"><span class="emph">Class discussion board:</span> Slack <br>
-Post all course related questions to the <span class="emph">course</span> channel. If you have questions
+Post all course related questions to the 'course' channel. If you have questions
 related to your grading, contact your instructor directly (office hours or email).
 </p>
 
