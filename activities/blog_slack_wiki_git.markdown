@@ -15,7 +15,7 @@ layout: activity
 
 ## Blog
 
- You will be using a blog to post weekly writings reflecting on the reading and discussion topic for the week (see [the syllabus](https://users.dickinson.edu/~braught/courses/cs491f18/syllabus.html#blog) for more details.)
+ You will be using a blog to post weekly writings reflecting on the reading and discussion topic for the week (see [the syllabus](https://cs.nyu.edu/~joannakl/ossd_s20/grading.html#blogs) for more details.)
 
  **Tasks:**
 
