@@ -4,7 +4,7 @@ layout: grades
 
 # Grading Components
 
-## Preparedness / Attendance / Engagement  (PAE) 10%
+## Preparedness / Attendance / Engagement  (PAE): 10%
 
 The success of this class is in a large part up to you as its primary participants. My hope is that you will all engage in the material, prepare carefully and come to our meetings excited to participate in discussions and activities with your peers. If that happens then our meetings will be lively and interesting and we will be able to focus largely on the aspects of the material that are most interesting to you as a group. Plus, it's good practice - many employers are now using [Group Discussions as a screening technique before or during interviews](https://www.reed.co.uk/career-advice/group-interview-tips-dos-and-donts/)!
 
@@ -18,11 +18,11 @@ PAE scores will be assigned according to the rubric below. The standard score in
 |0|Failed to demonstrate any familiarity with the assigned materials. | Did not attend the class or was not present for significant portions of class period. | Consistently inactive, distracted , disconnected and showing none or little interest in class discussion and activities.|
 |✓-| Demonstrated only minimal familiarity and interest in the assigned materials.  | Attended class but may have been late and/or left the room with unusual frequency or duration |Frequent periods of distraction, inattention or disinterest.   |
 |✓ | Demonstrated __expected__ familiarity with assigned materials. | Attended class, was on time and present in the class throughout period.|Engaged in discussion and activities.  |
-|✓+| Demonstrated __strong__ familiarity with the assigned materials. Took part in the class discussion by sharing the insights and personal reflections.| Unused | Engaged in discussions and activities in an exceptional way that enhanced it for everyone. |
+|✓+| Demonstrated __strong__ familiarity with the assigned materials. Took part in the class discussion by sharing the insights and personal reflections.| Unused. | Engaged in discussions and activities in an exceptional way that enhanced it for everyone. |
 |✓++|Demonstrated __exceptional__ familiarity with the assigned materials. Took initiative in finding and sharing related content. Approached the materials in unique and creative ways. | Unused. | Unused. |
 
 
-## Blogs / Reflective Writing  20%
+## Blogs / Reflective Writing: 20%
 
 An important part of learning about and understanding issues is to reflect upon them after reading and discussion. This gives you a chance to process the information, organize your thoughts, incorporate insights from others. To facilitate this reflection, each week  you are asked to write a blog post reflecting/expanding on some aspect of the reading/discussion topic that was of interest to you, comment and reflect on an invited talk, or answer to the prompts posted for that week on the course website. Doing this on a public blog encourages careful thought, precise writing and can provide evidence of your knowledge and abilities to prospective employers and/or graduate programs.
 
@@ -41,7 +41,7 @@ The blog posts will be assessed throughout the semester using the rubric below. 
 |0| Post missing or late more than three days. | Post is of trivial length. | Writing is largely incoherent or content shows no connection with the readings/discussions or prompts for the given week. |
 |✓-| Post made late, but within three days of the due date.  | Writing is very brief, formatting is lacking making the post hard to read.  | Writing is only loosely  connected to the readings/discussions and prompts for the given week. Post enumerates answers  and ideas rather than containing organized narrative. |
 |✓ | Post made by the due date.  | Post is of appropriate length, is formatted properly, is easy to follow, and multimedia use (if any) is appropriate.  | Writing is clear, concise, interesting on topic, clearly connected to the readings/discussions or prompts for the given week.  |
-|✓+| Unused. | Unused | Additionally, post is exceptionally well organized or interesting.  |
+|✓+| Unused. | Unused. | Additionally, post is exceptionally well organized or interesting.  |
 |✓++| Unused. | Unused. | Additionally, post shows personal insights, carefully thought out reflections and  creativity.  |
 
 <br> If you find writing blog posts challenging, some good advice on writing effective blog entries can be found at:
@@ -50,7 +50,7 @@ The blog posts will be assessed throughout the semester using the rubric below. 
 - [Writing a Blog](http://www.iup.edu/writingcenter/writing-resources/workshop-videos/writing-a-blog/) workshop video from the Indiana University of Pennsylvania (IUP) Writing Center.
 - There is no shortage of other advice, just google "How to write a blog" and find something that resonates with you and matches the goals of the course.
 
-## Activities / Exercises / Homework 10%
+## Activities / Exercises / Homework: 10%
 
 Early in the semester there will be a number of in-class activities, tutorials and homework assignments designed to introduce you to some of the tools and techniques commonly used in FOSS projects (and in professional software development as well). Typically these assignments will require you to complete some tutorials and activities while keeping a Slack Live-Log (see below) of your work.
 
@@ -155,7 +155,7 @@ A [five-fifteen report](https://www.contractingbusiness.com/archive/five-fifteen
 |0| Presentation delivered by a single group member with no or little engagement from the other group members.  |  Very brief presentation.  | Chaotic and hard to follow presentation.  | Presentation not engaging and/or not accessible to the audience (too technical or not providing enough details for someone who is not involved in the project.)  | No form of visual aids used.   |
 |✓-| Presentation not well balanced between the group members. | Presentation too long or too short and/or not balanced in terms of time between different parts.  | Presentation lacking in organization with the group members not well coordinated and not sure what comes next.   | Some parts of presentation are not accessible to the audience and/or are not sufficiently engaging.   |  Visual aids not well organized or planned, not easy to follow and/or at times distract from the actual presentation.  |
 |✓ | Presentation well balanced between the group members. | Presentation of appropriate length with a good balance of time spent on each part.  |  Presentation well organized with clear flow through different parts.  |  Presentation is sufficiently engaging and accessible to the audience. |  Visual aids used effectively to guide the audience through the presentation.  |
-|✓+| Presentation well balanced between the group members and is exceptionally well coordinated in terms of taking turns. | Unused.  | Unused  | Presentation is exceptionally engaging.  |  Visual aids meet criteria for ✓ __and__ are exceptionally well organized and/or significantly enhance the quality of the presentation. |
+|✓+| Presentation well balanced between the group members and is exceptionally well coordinated in terms of taking turns. | Unused.  | Unused.  | Presentation is exceptionally engaging.  |  Visual aids meet criteria for ✓ __and__ are exceptionally well organized and/or significantly enhance the quality of the presentation. |
 |✓++| Unused.| Unused. |    Unused. |  Presentation is exceptionally engaging and demonstrates creativity, is exceptionally insightful, thought provoking. | Visual aids meet criteria for ✓+ __and__  are exceptionally creative and/or insightful. |
 
 
@@ -206,8 +206,8 @@ Each Team 5-15 must have the headings given below and each must be followed by a
 
 1.  Period Ending (mm/dd/yyyy)
 2.  What were the team's accomplishments?
-3.  What Interactions did the team have with the community? Include links to any interactions that are publicly accessible (e.g. posting to list serve, comment on an issue, etc.)
-4.  What Contributions did the team make to the community? Include links to any publicly accessible contributions (e.g. documents, pages, new/refined/edited/closed tickets, pull requests, etc.)
+3.  What interactions did the team have with the community? Include links to any interactions that are publicly accessible (e.g. posting to list serve, comment on an issue, etc.)
+4.  What contributions did the team make to the community? Include links to any publicly accessible contributions (e.g. documents, pages, new/refined/edited/closed tickets, pull requests, etc.)
 5.  How is the team functioning? How can it be improved?
 6.  What technical challenges/roadblocks does the team face?
 7.  What's next?
@@ -229,5 +229,5 @@ Each contribution listing should contain links to publicly accessible documents,
 <br>
 
 <small>
-The rubrics, descriptions and language adapted from https://github.com/braughtg/DickinsonHFOSS-SFC-Materials made available under the CC BY-NC-SA 4.0 by Grant Braught.
+The rubrics, descriptions and language adapted from [Dickinson H/FOSS Capstone](https://github.com/braughtg/DickinsonHFOSS-SFC-Materials) made available under the CC BY-NC-SA 4.0 by Grant Braught.
 </small>
