@@ -65,7 +65,7 @@ The objectives and outcomes are explained in the course syllabus. The objectives
 
 - [Webopedia](http://www.webopedia.com/TERM/S/software.html) : software definition, software vs. hardware
 
--  [Computer Science Education in the 21st Century](http://goo.gl/400cMX) by David A. Patterson, Commun. ACM 49, (3): 27-30 (March, 2006)
+-  [Computer Science Education in the 21<sup>st</sup> Century](http://goo.gl/400cMX) by David A. Patterson, Commun. ACM 49, (3): 27-30 (March, 2006)
 
 - [The Linux Foundation's 2018 Open Source Jobs Report](https://www.linuxfoundation.org/publications/2018/06/open-source-jobs-report-2018/)
 is a report on jobs in the open source world in 2018.
