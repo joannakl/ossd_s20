@@ -26,7 +26,7 @@ Materials:
     Very briefly talks about the main idea in open source.
 
 - Markdown
-  - [MarkdownTutorial](https://www.markdowntutorial.com/)
+  - [Markdown Tutorial](https://www.markdowntutorial.com/)
   - [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 - Blogging. If you have never written a blog or are looking for ideas on what makes good blog posts, some good advice on writing effective blog entries can be found at:
