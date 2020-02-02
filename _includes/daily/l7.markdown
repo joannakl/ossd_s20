@@ -11,6 +11,8 @@ Wed, 2/19
 <div class="column_materials">
 <p markdown="block">
 
+Invited speaker: Deena Engel. 
+
 
 
 </p>
@@ -25,4 +27,3 @@ Wed, 2/19
 </div>
 
 </div>
-

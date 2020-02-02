@@ -11,6 +11,32 @@ Mon, 2/03
 <div class="column_materials">
 <p markdown="block">
 
+Create your first open source project (at least, in this class).
+
+Find your team members and make sure you are sitting together so that
+you can work together.
+
+<!--
+
+The instructions for the activity are at [Browser Add-on Activity](https://github.com/joannakl/ossd_materials/blob/master/activities/browser_add-on_activity.md) repository.
+
+You should keep a Slack live-log during this activity.
+- Create a channel in the course workspace on Slack.
+- Invite all group members to the channel.
+- Invite your instructor to the channel.
+- Log your progress as you complete different parts of the activity.
+(But do not duplicate the answers that you are providing elsewhere.)
+There should be regular entries in the log.
+You should no be just summarizing what you did at the very end.
+
+A sample live log is shown in the "sample-live-log" channel in Slack workspace for the class.
+
+
+Readings:
+- MDN [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) documentation
+
+-->
+
 
 
 </p>
@@ -19,10 +45,42 @@ Mon, 2/03
 <div class="column_assign">
 <p markdown="block">
 
+<!--
+Due by as soon as possible:
 
+- If you did not complete the in-class activity, work with your team members to finish
+it (up to and including Part 5). Keep a live-log to document that meeting
+(continue in the same channel as you were working with in class.)
+
+
+Due by the end of the week (Feb 9):
+- make a blog post for this week addressing at least some of the following:
+  - comment about your group work on the browser extension
+  - describe your own contributions to your team's efforts of building
+  your browser extension
+  - describe the state of your browser extension project: what progress
+  your team made, what problems you encountered, will you have a working
+  product by the due date
+  - comment on new things you learned (tools, features of tools that you were not familiar with, etc) or
+  learned about yourself (skills you realized you have, team work preferences and style, etc.)
+
+
+
+Due by the end of 2/11:
+
+- Read the _Getting Started_ section of the MDN [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions).
+
+- __With your team members__, work on the code of your proposed browser extension
+(make sure that this is a team work with all team members making contributions -
+keep in mind that individual commits made to the repository are tagged with your
+username so it is easy for us to identify who is working on what and when) <br>
+Note: you may need to revise your original vision of what this extension will do. <br>
+Keep a live-log of each session when the team meets to work together. <br>
+Each team will present their extension in class on Feb. 12.
+
+-->
 
 </p>
 </div>
 
 </div>
-

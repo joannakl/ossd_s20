@@ -11,7 +11,7 @@ Wed, 2/12
 <div class="column_materials">
 <p markdown="block">
 
-
+Presentations of the Firefox add-ons projects. 
 
 </p>
 </div>
@@ -25,4 +25,3 @@ Wed, 2/12
 </div>
 
 </div>
-
