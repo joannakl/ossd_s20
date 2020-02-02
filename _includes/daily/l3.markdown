@@ -29,7 +29,7 @@ You should keep a Slack live-log during this activity.
 There should be regular entries in the log.
 You should no be just summarizing what you did at the very end.
 
-A sample live log is shown in the "sample-live-log" channel in Slack workspace for the class.
+A sample live log is shown in the "sample-live-log" channel in Slack workspace for the class. You can also see [its transcript](https://cs.nyu.edu/~joannakl/ossd_s20/activities/sample_live_log.html). 
 
 
 Readings:
