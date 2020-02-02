@@ -20,7 +20,7 @@ title:
 </p>
 
 
-<p class="hang" markdown="1"><span class="emph">Class discussion board:</span> Piazza <br>
+<p class="hang" markdown="1"><span class="emph">Class discussion board:</span> Slack <br>
 Post all course related questions to the discussion board. If you have questions
 related to your grading, contact your instructor directly (office hours or email).
 </p>
@@ -28,7 +28,7 @@ related to your grading, contact your instructor directly (office hours or email
 
 
 <p class="hang" markdown="1"><span class="emph">How to get help?</span>
-Ask questions on discussion forums (Piazza)! Ask questions during lectures!
+Ask questions on discussion forums (Slack)! Ask questions during lectures!
 Talk to us (We cannot help, unless we know there is an issue).
 See the tutors and/or instructor during posted office hours or set up an appointment!
 Make sure you let us know as soon as you feel lost in the course. Do not wait till you
