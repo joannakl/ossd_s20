@@ -97,10 +97,10 @@ The grade of *Incomplete* is reserved for students who, for legitimate and docum
 
 - Context, History, and Overview
     - Principles of open source
-    - the Open Source Definition and the Free Software Definition and their ramifications    
+    - The Open Source Definition and the Free Software Definition and their ramifications    
     - History and background of open source software    
     - Open source culture and community    
-    - Open-ness in general: open source software and hardware, open data, open organizations (government, education, etc.)    
+    - Open-ness in general: Open source software and hardware, open data, open organizations (government, education, etc.)    
     - Humanitarian open source software
 - Evaluating and Assessing Projects and Communities
     - Measures of open source projects and communities: maturity, level of activity, friendliness, welcomeness and codes of conduct, size of code base
@@ -108,7 +108,7 @@ The grade of *Incomplete* is reserved for students who, for legitimate and docum
     - Evaluating the suitability of a project for the purpose of contributing to it
     - Studies of selected projects
 - The Business of Open Source
-    - Business models: how money is made from open source software
+    - Business models: How money is made from open source software
     - The role of open source software in the software industry
     - Careers in open source
 - Contributing to Projects
@@ -120,12 +120,12 @@ The grade of *Incomplete* is reserved for students who, for legitimate and docum
     - Project guidelines: How to Contribute documents
     - Behavior of the community: Codes of Conduct
 - Tools and Technology
-    - Programming Tools and Technology
-    - Document Preparation
+    - Programming tools and technology
+    - Document preparation
         - Markdown languages
         - Documentation tools
     - Collaborative software engineering tools
-        - Version control systems ( Git)
+        - Version control systems (Git)
         - Issue tracking
     - Software engineering tools for distributed collaboration
         - Communication tools (e.g., blogs, Slack, IRC)
