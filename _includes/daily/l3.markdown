@@ -16,7 +16,6 @@ Create your first open source project (at least, in this class).
 Find your team members and make sure you are sitting together so that
 you can work together.
 
-<!--
 
 The instructions for the activity are at [Browser Add-on Activity](https://github.com/joannakl/ossd_materials/blob/master/activities/browser_add-on_activity.md) repository.
 
@@ -29,13 +28,12 @@ You should keep a Slack live-log during this activity.
 There should be regular entries in the log.
 You should no be just summarizing what you did at the very end.
 
-A sample live log is shown in the "sample-live-log" channel in Slack workspace for the class. You can also see [its transcript](https://cs.nyu.edu/~joannakl/ossd_s20/activities/sample_live_log.html). 
+A sample live log is shown in the "sample-live-log" channel in Slack workspace for the class. You can also see [its transcript](https://cs.nyu.edu/~joannakl/ossd_s20/activities/sample_live_log.html).
 
 
 Readings:
 - MDN [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) documentation
 
--->
 
 
 
@@ -45,7 +43,6 @@ Readings:
 <div class="column_assign">
 <p markdown="block">
 
-<!--
 Due by as soon as possible:
 
 - If you did not complete the in-class activity, work with your team members to finish
@@ -64,11 +61,10 @@ Due by the end of the week (Feb 9):
   - comment on new things you learned (tools, features of tools that you were not familiar with, etc) or
   learned about yourself (skills you realized you have, team work preferences and style, etc.)
 
+- Read the _Getting Started_ section of the MDN [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions).
 
 
 Due by the end of 2/11:
-
-- Read the _Getting Started_ section of the MDN [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions).
 
 - __With your team members__, work on the code of your proposed browser extension
 (make sure that this is a team work with all team members making contributions -
@@ -78,7 +74,7 @@ Note: you may need to revise your original vision of what this extension will do
 Keep a live-log of each session when the team meets to work together. <br>
 Each team will present their extension in class on Feb. 12.
 
--->
+
 
 </p>
 </div>
