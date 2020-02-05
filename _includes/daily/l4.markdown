@@ -15,7 +15,11 @@ Anatomy of a FOSS project, [slides](slides/anatomy_project.html)
 
 Contributions you should be working on, [slides](slides/contributions.html)
 
-
+Code of conduct, samples:
+- [Contributor Covenant](https://www.contributor-covenant.org/), originally written by
+Coraline Ada Ehmke
+- [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/)
+- Google's
 </p>
 </div>
 

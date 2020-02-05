@@ -6,7 +6,6 @@
 Sun, 2/9
 </p>
 </div>
-
 <div class="column_recitation">
 <p markdown="block">
 
