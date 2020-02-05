@@ -194,6 +194,14 @@ table,  th,  td {
   border-top: 3px solid white;
   overflow: hidden;
 }
+.recitation {
+  clear: left;
+  padding-bottom: 15px;
+  padding-top: 9px;
+  background-color: #b5e3df;
+  border-top: 3px solid white;
+  overflow: hidden;
+}
 .titles {
   clear: left;
   padding-bottom: 15px;
