@@ -273,6 +273,9 @@ table,  th,  td {
     margin-right: 2%;
     display: inline-block;
   }
+  .column_recitation {
+    vertical-align: top;
+  }
   .column_assign {
     width: 38%;
     margin-right: 2%;
