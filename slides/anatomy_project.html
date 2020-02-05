@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Anatomy of a FOSS Project</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <link href="css/slides.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# CSCI-UA 480.10: OSSD
+## Open Source Software Development
+
+<br>
+
+## Anatomy of a FOSS Project
+
+.author[
+Instructor: Joanna Klukowska <br>
+<!--
+adapted from slides for CSCI-UA.002 by D. Engle, C. Kapp and J. Versoza
+-->
+]
+
+.license[
+Unless noted otherwise all content is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+]
+
+---
+
+## Elements of a FOSS Project
+### or what you should be paying special attention to
+
+- community and its structure
+
+- files with information and guidance
+
+- tools
+
+- communication channels
+
+---
+## Community and Its Structure: The Onion Model
+
+.left-column2-large[
+.center[
+<img src="img/onion_model.png" width="500px"/>
+]
+]
+.right-column2-small[
+.small[
+(1) Walt Scacchi. Role Migration and Advancement Processes in OSSD Projects:
+A Comparative Case Study. 29th International Conference on Software
+Engineering (ICSE’07). 2007, [PDF](https://www.ics.uci.edu/~wscacchi/Papers/New/Jensen-Scacchi-ICSE-2007.pdf)
+
+(2) Y. Ye and K. Kishida. Towards an Understanding of the Motivation of Open
+Source Software Developers. 25th International Confererence on Software
+Engineering (ICSE’03). 419-429, 2003. [Web](https://dl.acm.org/doi/10.5555/776816.776867)
+]
+]
+
+---
+## The Onion Model
+
+.left-column2[
+
+__Center__
+
+- founder(s) - the person(s) who started the project; they may or may not
+be involved in the leadership and decision making
+- BDFL = _Benevolent Dictator For Life_
+- general leadership - group of people making decisions about direction of the project
+(generally based on the community feedback)
+
+
+__Core Contributors__
+
+- most senior and experienced people in the project
+- provide guidance and mentorship to the newer community members
+- hold the _commit bit_ - they are able to approve changes made to the project
+
+]
+.right-column2[
+__Non-core contributors__
+
+- make regular contributions
+- active in isse dicussions
+- provide feedback to the newer members of the community
+
+__New contributors__
+
+- people interested in contributing to the project
+- still learning the structure of the project
+
+
+__Users__
+
+- people who use the project
+
+]
+
+---
+
+## Important Files
+
+- README.md
+
+- LICENSE
+
+- CONTRIBUTING.md
+
+- Code of Conduct
+
+- Styleguides
+
+- Other
+  - INSTALL / INSTALLATION
+  - CHANGES / CHANGELOG
+  - AUTHORS
+
+---
+
+## Tools: Issue Tracking
+
+issue tracking = bug tracking = ticketing system
+
+- _place_ where the project tracks issues related to the project
+
+- what are _issues_?
+  - feature requests
+  - feature suggestions
+  - bugs / problems discovered with the code
+  - improvement suggestions
+  - support questions
+  - design decisions
+  - team discussions
+
+- how should _you_ use the issue tracker?
+  - first study existing issues (both open and closed), to learn how the
+    community uses the issue tracker
+  - if there is documentation about how to use the issue tracker, study it
+  - follow what you learned above in your own use of the issue tracker for that project
+
+---
+
+## Tools: Other
+
+- other tools depend on the project itself
+
+- you need to make sure that you are familiar with (or are willing to
+  learn / have time to learn) the tools that the project useses
+
+---
+
+## Sources
+
+
+1. VM Brasseur, _Forge Your Future with Open Source_, The Pragmatic Programmers, LLC. 2018.
+
+
+---
+
+
+
+
+
+
+    </textarea>
+     <script src="js/remark.js" type="text/javascript">
+    </script>
+    <script src="js/remark_conf.js" type="text/javascript">
+    </script>
+
+  </body>
+</html>

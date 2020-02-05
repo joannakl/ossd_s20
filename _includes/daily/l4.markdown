@@ -11,6 +11,9 @@ Wed, 2/05
 <div class="column_materials">
 <p markdown="block">
 
+Anatomy of a FOSS project, [slides](slides/anatomy_project.html)
+
+Contributions you should be working on, [slides](slides/contributions.html)
 
 
 </p>
@@ -25,4 +28,3 @@ Wed, 2/05
 </div>
 
 </div>
-
