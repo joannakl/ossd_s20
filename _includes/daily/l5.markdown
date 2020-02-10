@@ -11,6 +11,14 @@ Mon, 2/10
 <div class="column_materials">
 <p markdown="block">
 
+Version control systems and Git.
+[slides](slides/version_control_systems.html)
+
+Introduction to Git activity [slides](slides/git_intro_activity.html)
+
+Readings:
+
+- the first two chapters in ProGit book
 
 
 </p>
@@ -19,10 +27,31 @@ Mon, 2/10
 <div class="column_assign">
 <p markdown="block">
 
+Due immediately:
+
+- One person from each team should make a post in the browser-extension-presentations channel in the Slack workspace.
+  The post should follow this format: <br>
+  `Team TeamNumber, [Extension Name](link to the GitHub repo) `
+
+
+Due by the end of the week (Feb 16):
+- make a blog post for this week addressing at least some of the following:
+  - comment about your group work on the browser extension
+  - what have you learned from working with your group on the browser extension activity about
+  collaborating with other people
+  - comment on new things you learned (tools, features of tools that you were not familiar with, etc) or
+  learned about yourself (skills you realized you have, team work preferences and style, etc.)
+  - comment on projects/presentations that other groups completed
+
+- add a question for [Deena Engle](https://cs.nyu.edu/~deena/) and [Vicky Steeves](https://vickysteeves.com/) , [Linkedin](https://www.linkedin.com/in/christosbaharakis/?originalSubdomain=gr), to the course wiki
+  - add your own question, and enter a number 1 next to it
+  - read through existing questions, and up-vote the questions you like
+    (replace the number next to them with a number __one higher__
+  - go back to the page towards the end of the week to cast your vote on
+    additional questions if you like them
 
 
 </p>
 </div>
 
 </div>
-
