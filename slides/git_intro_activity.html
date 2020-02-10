@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Version Control Systems</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <link href="css/slides.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# CSCI-UA 480.10: OSSD
+
+<br>
+
+## Git Introductory Activity
+
+.author[
+Instructor: Joanna Klukowska <br>
+]
+
+.license[
+Copyrigth: Joanna Klukowska, 2020 <br>
+Unless noted otherwise all content is released under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+]
+
+---
+## Assumptions / Prerequisites
+
+
+- You have Git installed on your local system.
+
+- You have Git configured on your local system.
+
+- You have a GitHub account.
+
+
+---
+
+- Find the `git_intro_activity` repository in the course organization on GitHub
+
+  https://github.com/nyu-ossd-s20
+
+--
+
+- __Fork this repository to your local account__:
+   1. Click __Fork__ in the upper-right corner of the page when you are viewing the content of the repository.
+   2. If you are a member of one or more organizations, select your personal account to receive the fork.
+   3. You should be viewing your personal fork of the `git_intro_activity` now - verify the URL to make sure that this is the case.
+
+---
+
+- __Clone your fork__:
+
+--
+
+    1. In the browser, click the green __Clone or Download__ button.
+    2. If "HTTPS" is not selected, click __Use HTTPS__.
+    3. Click the clipboard icon to copy the URL in the box to your clipboard.
+    4. To clone the repository, in the terminal window, enter the Git command
+      below, where URL is in your clipboard from step 3.
+        ```
+        git clone URL
+        ```
+--
+
+    5. This new repository will be given the same name as the repository on GitHub.
+      Change directory into the root of this cloned repository:
+
+        ```
+        cd make-me-laugh
+       ```
+
+     Congratulations, you have cloned your fork to your local machine!
+
+---
+
+- Look around,  run
+
+  - `git log`
+
+  - `git remove -v`
+
+  - `git status`
+
+  what type of information does each of the commands give you?
+
+
+---
+
+- __Add another remote__
+
+  You want to keep a _connection_ to the original repository that you forked,
+  so that you have access to the changes made in that repository.
+
+  This is accomplished by adding another remote to your local repository.
+--
+  To add a remote, you need the URL of the remote repository.   The following steps are one way to get that URL.
+
+    1. In the browser, navigate to the original repository in the organization.
+    2. Click the green __Clone or Download__ button.
+    3. If "HTTPS" is not selected, click __Use HTTPS__, and copy it to your clipboard.
+    5. In the terminal add a named URL (called a remote) to your clone that
+       points to this repository, which we'll call `upstream` (the name can be anything you wish).
+        ```
+        git remote add upstream URL
+        ```
+    6. Run
+        ```
+        git remote -v
+        ```
+      how is the output from it different than when you executed this command on the previous slide?
+
+ Congratulations, your local clone now knows where to find the upstream repository (i.e., the original project repository).
+
+---
+
+- Work on the content of your local repository
+
+    1. create a new file called `my_jokes.txt` and add a single joke of your own to it
+
+    2. now, perform the following tasks:
+        - add this file to the staging area
+        - commit the changes
+        - push the changes up to your fork
+       (do you remember the instructions that accomplish those three steps? )
+--
+
+        ```
+        git add my_jokes.txt
+        ```
+
+        ```
+        git commit -m "Created my own collection of jokes"
+        ```
+
+       ```
+       git push origin master
+       ```
+
+    Congratulations! You just added your content to your fork.
+
+---
+
+- Work on the content a bit more ...
+
+    1. the file `fun.txt` has three jokes in it, rate each of them on a scale
+      from 1 (not so funny) to 3 (very funny), save the changes to the file and then
+    2. add the changed file to the staging area and run
+      ```
+      git status
+      ```
+      what type of information does this give you?
+--
+    3. commit your changes, but do not push them to your fork
+
+---
+
+- __Synchronizing with upstream__
+
+   1. As you are busy working on your own copy of the repository, other people are making changes
+      to the original upsteam repository. You want to get these changes incorporated into the files that
+      you are working on. To do so, run
+
+     ```
+     git pull upsteam master
+     ```
+
+     Git will prompt you for a commit message. Since files are being modified, this event is
+     recorded in the commit log. Either enter a new message, or accept the message that
+     Git suggests. <br>
+     (If Git opened a `vi` window for you to edit the commit message, you can exit it by pressing
+      `:wq`.:)
+
+     Read the messages that git prints to the terminal after you finish editing the commit message.
+     What do they tell you?
+
+--
+   2. Look at the content of `fun.txt` file. What happened?
+
+   3. Look at the list of files in your local repository. Is the file `my_jokes.txt` still there?
+
+--
+
+  Git was able to merge the changes that were made in upstream and your changes without any issues.
+
+---
+
+-  __Synchronizing with upstream again ...__
+
+  1. You'll repeat the steps from the previous slide, but this time you will need to help
+     Git in merging the changes.
+
+  2. Run
+
+     ```
+     git pull upsteam master
+     ```
+
+     Read the messages that Git prints. This time the messages are different than in the previous pull.
+     What do they tell you?
+
+     Congratulations!!! You just got a merge conflict.
+
+---
+
+-  __Synchronizing with upstream again ...__
+
+  3 . Look at the file `fun.txt`, you will see lines that look something like this:
+
+     ```
+     <<<<<<< HEAD
+     Rating: 1
+     =======
+     Rating: 3
+     >>>>>>> 305029d109b13d32eb188afb53a1a978164445f9
+     ```
+     Git shows you the changes that conflict. In the part above `=======` it shows you the content
+     of your local repository. In the part below, it shows you the content from the upstream.
+     It is now up to you, the human, to decide which of these changes you wish to keep.
+
+--
+  4 . To resolve the conflict, edit the file and pick which of the two lines you wish to keep.
+     Remove the lines starting with `>>>>>>>>>` and `<<<<<<<<<<`.
+
+  5 . When you are done with editing the file, you will need to add it to the staging area and commit it:
+
+      ```
+      git add fun.txt
+      git commit -m "merging changes manually"
+      ```
+
+      This concludes the merge from the upstream.
+---
+
+- __Update your fork__
+
+  1. Push all the changes to your own fork.
+
+  2. Use `git log` to see the commit history.
+
+  3. How would you go back to one of the earlier commit points? 
+
+---
+
+class:middle, center
+
+# The End
+
+
+    </textarea>
+     <script src="js/remark.js" type="text/javascript">
+    </script>
+    <script src="js/remark_conf.js" type="text/javascript">
+    </script>
+
+  </body>
+</html>
