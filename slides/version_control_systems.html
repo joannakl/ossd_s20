@@ -21,79 +21,87 @@ class: center, middle
 Instructor: Joanna Klukowska <br>
 ]
 
-
-
 .license[
-Unless noted otherwise all content is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Copyrigth: Joanna Klukowska and Stewart Weiss, 2020 <br>
+Unless noted otherwise all content is released under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 ]
 
 ---
-# Attribution
 
-Majority of the content of these slides has been adapted from two books:
+## Version Control System (VCS)
 
-- [_Producing Open Source Software_](http://producingoss.com/) by Karl Fogel,
-distributed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://producingoss.com/en/copyright.html)
-
-- [_ProGit_](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub,
-distributed under [Creative Commons Attribution Non Commercial Share Alike 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-
----
-# Version Control System (VCS)
-
-- what is a version control system (and don't say _GitHub_)?
+- What is a version control system (and don't say _GitHub_)?
 
 --
 
-A _version control system_ (or _revision control system_) is a combination of technologies and practices for
-tracking and controlling changes to a project's files, in particular to source code, documentation, and
-web pages. (But is often used for projects that have nothing or little to do with code.)
+  A _version control system_ (or _revision control system_) is a system that
+records changes to a set of one or more files so that earlier versions of any
+of these files can be restored at a later time. It is often used for managing
+software, but it can be used for any types of files, such as  documentation,
+web pages, graphics, artwork in general, and chapters of a book.
 
 --
 
-- why do we need version control?
+- Why do we need version control?
 
 --
 
-- what are some examples of version control systems ?
+  Software is a precious asset. You spend hours working on it and need to
+make sure you do not lose important work. Sometimes you make mistakes, overwrite
+things, replace good ideas with bad ones, and so on. Version control allows us
+to safely go back to different versions.
+
+  Also, when groups of people work on the same project files, a version control
+system helps  prevent lost or conflicting work. It tracks every individual
+change by each contributor.
 
 --
 
-    - git, see [Wikipedia article](https://en.wikipedia.org/wiki/Git)
+- What are some examples of modern version control systems ?
 
-    - subversion (or Apache subversion, or SVN), see [Wikipedia article](https://en.wikipedia.org/wiki/Apache_Subversion)
+--
 
+    - Git, see [Wikipedia article](https://en.wikipedia.org/wiki/Git)
+    - Subversion (or Apache subversion, or SVN), see [Wikipedia article](https://en.wikipedia.org/wiki/Apache_Subversion)
     - Mercurial, see [Wikipedia article](https://en.wikipedia.org/wiki/Mercurial)
 
-    - there are few other/older ones, but they are not used for any new projects
 
 
 ---
-class: middle
+## Assessing Your Background
 
 __Show of hands:__
 
-- Who feels comfortable using a version control system (git, or anything else)?
+- Who feels comfortable using a version control system (Git, or anything else)?
     - beginner
     - intermediate
     - expert
 
+--
+
 - Who uses a version control system on a regular basis (for purposes other than class assignments)?
 
-- Who uses the terminal to _communicate_ with the version control system?
-    (for example for making the course blog posts)
+--
+
+- Who uses version control software (e.g., Git) in a terminal window  (rather
+ than some GUI based software)?
+
+
+
 
 
 ---
-# VCS Jargon
+## VCS Terminology
 
 - __repository__
 
 --
 
     A database in which changes are stored and from which they are published. <br>
-    In centralized VCS, there is a single, master repository. <br>
-    In decentralized VCS, each developer has their own repository, changes can be swapped back and forth between repositories arbitrarily.
+    In a __centralized VCS__, there is a single, master repository. <br>
+    In a __distributed__ or __decentralized VCS__, each developer has their own
+    repository, and changes can be interchanged among repositories arbitrarily.
 
 .left-column2[.center[
 <img src="https://git-scm.com/book/en/v2/images/centralized.png" width=80% alt="centralized VCS"/>
@@ -103,19 +111,37 @@ centralized VCS
 .right-column2[.center[
 <img src="https://git-scm.com/book/en/v2/images/distributed.png" width=70% alt="centralized VCS"/>
 
-decentralized VCS
+distributed VCS
 ]]
+
+---
+## VCS Terminology
+
+- __remote versus local repositories__
+
+--
+
+  The repository in which you do your work is your __local__
+ repository. A __remote repository__ is a  version of your project that is not
+ your local repository. It is usually either  hosted on the Internet, on another
+ network, or your own network.  It can even be on your local machine.
+
+  Sometimes you are the owner of the remote repository, because you maintain it
+on a website somewhere (such as GitHub), and sometimes the remote is maintained
+by someone else.
+
 
 
 ---
-# VCS Jargon
+## VCS Terminology
 
 - __clone__
 
 --
 
-    To obtain one's own development repository by making a copy of the project's
-    central repository.
+    To copy an existing repository from a (usually but not necessarily remote)
+   server into a newly created directory on  your local machine.
+  (Every version of every file for the history of the   project is copied by default.)
 
 --
 
@@ -124,9 +150,11 @@ decentralized VCS
 --
 
     To make a change to the project; more formally, to store a change in the version control database in
-    such a way that it can be incorporated into future releases of the project. "Commit" can be used as
-    a verb or a noun. For example: "I just committed a fix for the server crash bug people have been re-
-    porting on Mac OS X. Jay, could you please review the commit and check that I'm not misusing the
+    such a way that it can be incorporated into future releases of the project.
+
+    "Commit" can be used as
+    a verb or a noun. For example: "I just _committed_ a fix for the server crash bug that people have been
+    reporting on Mac OS X. Jay, could you please review the _commit_ and check that I'm not misusing the
     allocator there?"
 --
 
@@ -134,28 +162,30 @@ decentralized VCS
 
 --
 
-    A bit of commentary attached to each commit, describing the nature and purpose
-    of the commit.
+    Some commentary attached to each commit, describing the nature and purpose
+    of the commit. The more detailed it is, the better it is.
 
---
+---
+## VCS Terminology
+
 
 - __push__
 
 --
 
-    To publish a commit to a (public) remote repository, from which others can incorporate it inot their copy of he project's code.
+    To publish a commit to a remote repository, usually so that others can
+ incorporate it into their copy of the project's code.
 
-    In some VCS the remote repository is pre-determined, in others it is user specified.
+    In some VCSs, the remote repository is pre-determined, in others it is user-specified.
 
----
-# VCS Jargon
+--
 
 - __pull__ / update
 
 --
 
-    To incorporate changes/commits present in the remote repository into your own copy of the
-    project.
+    To incorporate changes/commits present in a remote repository into your own
+  copy of the   project.
 
 --
 
@@ -165,9 +195,17 @@ decentralized VCS
 
     A developer's private directory tree containing the project's source code files.
 
-    In decentralized VCS, working copies and repositories are usually colocated, so the term "working copy" is less often used. Developers instead tend to say "my clone" or "my copy" or sometimes "my fork".
+    In a distributed VCS, working copies and repositories are usually colocated,
+  so the term "working copy" is less often used. Developers instead tend to say
+  "my clone" or "my copy" or sometimes "my fork".
 
---
+    __NOTE__: The repository is not the directory or the files!  The repository is what
+  the VCS creates to control and manage the files. We sometimes misuse the word but
+  it is an important distinction.
+
+---
+## VCS Terminology
+
 
 - __diff__
 
@@ -175,16 +213,31 @@ decentralized VCS
 
     A textual representation of a change. A diff shows which lines were changed and how, plus a few lines of surrounding context on either side. A developer who is already familiar with some code can usually read a diff against that code and understand what the change did, and often even spot bugs.
 
+--
+
+- __patch__
+
+--
+
+   A patch is essentially like a diff except that patches are often distributed as
+  chunks of code that when run, make the changes to the file to which the patch is applied.
+
 ---
-# VCS Jargon
+## VCS Terminology
 
 - __branch__
 
 --
 
-    A copy of the project, under version control but isolated so that changes made to the branch don't affect other branches of the project, and vice versa, except when changes are deliberately "merged" from one branch to another (see below). Branches are also known as "lines of development".
+    A copy of the project, under version control but isolated so that changes
+   made to the branch don't affect other branches of the project,
+   and vice versa, except when changes are deliberately "merged" from
+   one branch to another (see below). Branches are also known as "lines of development".
 
-    Branches offer a way to keep different lines of development from interfering with each other. For example, a branch can be used for experimental development that would be too destabilizing for the main trunk.
+    Branches offer a way to keep different lines of development from
+    interfering with each other. For example, a branch can be used for
+    experimental development that would be too destabilizing for the main trunk,
+    or for working on new features, or for fixing bugs.
 
 --
 
@@ -192,97 +245,265 @@ decentralized VCS
 
 --
 
-    To copy a change from one branch to another.
+    To copy the differences found in one branch to another.
+
+---
+## VCS Terminology
+
+- __merge conflict__
 
 --
 
-- __conflict__
-
---
-
-    What happens when two people try to make different changes to the same place in the code. All version control systems automatically detect conflicts, and notify at least one of the humans involved that their changes conflict with someone else's. It is then up to that human to resolve the conflict, and to communicate that resolution to the version control system.
-
----
-# Git
-
-- developed in 2005 by Linus Torvalds
-
-- mantained since then by [Junio Hamano](https://en.wikipedia.org/wiki/Junio_Hamano)
-
-- website: https://git-scm.com/
-
-- repository: https://github.com/git/git
-
-- IRC: irc.freenode.net , channel #git
+  When the same part of the file has been modified in two different ways a VCS may not
+be able to merge the differences together. The changes may be within a single line
+but they also can be more general than that. In this case, the VCS notifies the human
+that a __merge conflict__ exists and must be resolved manually.
 
 ---
-# Working with a git repository
+## About Git
+
+- Developed in 2005 by Linus Torvalds
+
+- Maintained since then by [Junio Hamano](https://en.wikipedia.org/wiki/Junio_Hamano)
+
+- Website: https://git-scm.com/
+
+- Repository: https://github.com/git/git
+
+- IRC Channel: irc.freenode.net , channel #git
+
+---
+## Working with a Git repository
 
 <br><br>
 
 ![Figure 6 from ProGit](https://git-scm.com/book/en/v2/images/areas.png)
 
 ---
+## The States of a File in Git
 
-- installing git
-    - make sure that you have environment setup for working with git in a terminal
+- Every file is in exactly one of three states in Git:
+  __modified__, __staged__, or __committed__.
 
-- configuring git
+  __Modified__ means that you changed the file but have not told Git to record
+  the changes in its database.
 
-    - setup your name / user name / identifier
+  __Staged__ means that you have marked a modified file in its current version
+  to go into the next "commit snapshot".
+
+  __Committed__ means that the data is safely stored in your local Git database.
+
+--
+
+- Files are either __tracked__ or __untracked__.
+
+  Informally, a file in the working directory is __tracked__ if Git has a record of
+  it in its database, whether it is  unmodified, modified, or staged.
+
+  A file is __untracked__ if it is in the working directory but not tracked.
+
+--
+
+  When you first clone a repository, all of the files will be
+  tracked and unmodified because Git just created them all for you, so they
+  are all in its database, and you have not yet modified them.
+
+---
+## Making Changes with Git
+
+
+- The basic workflow to modify a file and have Git record the changes:
+
+  1. Make the changes to one or more files. These are changes to the
+  working directory (the leftmost part of the figure.)
+
+  1. __Stage__ the changes that you want to be a part of the next commit.
+
+  1. __Commit__ all work that has been staged.
+
+
+---
+## Basic Git Commands: Installing
+
+- Installing Git
+    - This depends on your particular system. It can be downloaded from<br>
+      https://git-scm.com/downloads
+
+    - It can usually be installed by the package manager in Linux systems.
+
+
+
+---
+## Basic Git Commands: Configuration
+
+ - Setting up your environment to work with Git in a terminal.
+
+    - Set up your name / user-name / identifier
 
         `git config --global user.name "John Doe"`
 
-    - setup your email address
+    - Set up your email address:
 
         `git config --global user.email "John.Doe@worlds.net"`
 
-    - setup your prefered text editor
+    - Set up your prefered text editor:
 
         `git config --global user.editor vi`
 
-    - cache your credentials for a few minutes, so you do not have to
+    - Tell Git to cache your credentials for a few minutes, so you do not have to
     retype your username and password on every single push
 
         ` git config --global credential.helper cache`
 
-    - check your current config
+    - Check your current configuration, i.e., list the config state:
 
         `git config --list`
 
+---
+## Basic  Git Commands:  Cloning a Repository
+
+- The Git `clone` command makes a copy of an existing repository in a new
+  directory, at another location. The original repository can be located on the
+  local filesystem or on remote machine accessible through the Git protocol.
+
+  - Given the URL of a remote repository that you have the right to copy, to clone it
+     use
+
+        `git clone URL`
+
+      This will make a copy of the remote naming it with the same name as it has on
+      the server, in the current working directory.
+
+  - To clone a  repository on the local machine you also use `git clone` but give
+    it the path top the existing  repository:
+
+       `git clone PATHNAME`
+
+
+  - In all cases it creates a `remote reference` named `origin` that "points to"
+    the original repository and will be the default for pushing and pulling.
+
 
 ---
+## Basic Git Commands: Repository Information
 
-- getting info about your repository (the local copy of it)
+- Getting information about your repository (the local copy of it):
 
-    - show the working tree status (information about what is staged, what is
+    - Show the working tree status (information about what is staged, what is
     tracked/untracked)
 
         `git status`
 
-    - show the list of all the commits (commit lot) in reverse chronological order
+    - Show the list of all of the commits (i.e., the __commit log__) in reverse chronological order
 
         `git log`
 
-    - display the info about the remote repository
+    - Display detailed information about the  remote repository named `origin`:
 
         `git remote show origin`
 
+    - Display a list of all remote repositories for your repository:
 
+         `git remote -v`
+
+---
+## Basic Git Commands: Local Workflow
+
+- After you modify some files:
+
+    - Staging your files
+
+         `git add file1 file2 ...`
+
+    - Commit all staged files
+
+          `git commit -m "one line commit message enclosed in quotes" `
+
+    -  Or, selectively commit some staged files, say `file1` and `file2`
+
+           `git commit -m "one line commit message enclosed in quotes" file1 file2`
+
+--
+
+- If you modify a tracked file, you can commit without staging.
+  Say you modified `file1` after commiting.
+
+    - Commit the tracked, modified file `file1`:
+
+           `git commit -m "changed file1 again" file1`
+
+---
+
+## Basic Git Commands: Pushing
+
+- You worked on your local copy of a repository and now want to update the
+  remote, the one you cloned from. By default the remote is named `origin`.
+
+     - To "push" those changes, in this simple case, you can use
+
+          `git push`
+
+        or for clarity
+
+          `git push origin`
+
+        For even more clarity, you are pushing your __master branch__ and can use
+
+          `git push origin master`
+
+---
+
+## Basic Git Commands: Pulling
+
+- Suppose that the remote repository might have been changed in some way since
+  the last time you worked on your local copy. Maybe you added a file on the
+  remote or someone else who had permission did so.
+
+  You must __always__ retrieve the latest copy before starting more work locally!
+  The simplest way to do this is to "pull" the changes.
+
+  By default the remote is named `origin`.
+
+     - To "pull" the current state of the remote, in this simple case, you can use
+
+          `git pull`
+
+        or for clarity
+
+          `git pull origin`
+
+  Later we will cover using `git fetch` as a safer way to do this.
+
+---
+## What Lies Ahead
+
+- Working with collaborators
+
+- Working with remotes
+
+- Working with branches
+
+- Undoing changes
+
+- Removing files here and there
+
+- Rewriting history
 
 
 
 ---
-#
+## Sources and Acknowledgements
 
----
+Much of the content of these slides has been adapted from the following sources:
 
-# Sources and Acknowledgements
+- [_Producing Open Source Software_](http://producingoss.com/) by Karl Fogel,
+licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://producingoss.com/en/copyright.html)
 
+- [_ProGit_](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub,
+licensed under [Creative Commons Attribution Non Commercial Share Alike 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-
-
-
+- [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
+licensed under a [Attribution 2.5 Australia (CC BY 2.5 AU)](https://creativecommons.org/licenses/by/2.5/au/) license.
 
 
 
