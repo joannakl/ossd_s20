@@ -14,13 +14,13 @@ Wed, 2/12
 Presentations of the Firefox add-ons projects.
 
 - Team 1, [Light Switch](https://github.com/nyu-ossd-s20/LightSwitch)
-- Team 2,
+- Team 2, [Top Sites Border](https://github.com/nyu-ossd-s20/Group2)
 - Team 3, [repacge](https://github.com/nyu-ossd-s20/repcage)
-- Team 4,
+- Team 4, [Virtual Dice and Coin Flip](https://github.com/nyu-ossd-s20/Virtual-Dice-and-Coin-Flip)
 - Team 5, [NYU Clock](https://github.com/nyu-ossd-s20/nyu-clock)
-- Team 6,
-- Team 7, 
-- Team 8,
+- Team 6, [mockbob](https://github.com/nyu-ossd-s20/mockbob)
+- Team 7, [Word to Pet](https://github.com/nyu-ossd-s20/word-to-pet)
+- Team 8, [nyc forecast](https://github.com/nyu-ossd-s20/group8-extension)
 - Team 9, [Table of Contents](https://github.com/nyu-ossd-s20/table_of_contents)
 - Team 10, [Font Changer](https://github.com/nyu-ossd-s20/fontChanger)
 - Team 11, [Cursify](https://github.com/nyu-ossd-s20/Cursify)
