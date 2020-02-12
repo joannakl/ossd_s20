@@ -11,7 +11,7 @@ Wed, 2/19
 <div class="column_materials">
 <p markdown="block">
 
-Invited speaker: Deena Engle and Vicky Steeves.
+Invited speaker: Deena Engel and Vicky Steeves.
 
 Topic: Open Data  
 

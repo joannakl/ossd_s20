@@ -43,7 +43,7 @@ Due by the end of the week (Feb 16):
   learned about yourself (skills you realized you have, team work preferences and style, etc.)
   - comment on projects/presentations that other groups completed
 
-- add a question for [Deena Engle](https://cs.nyu.edu/~deena/) and [Vicky Steeves](https://vickysteeves.com/) , [Linkedin](https://www.linkedin.com/in/christosbaharakis/?originalSubdomain=gr), to the course wiki
+- add a question for [Deena Engel](https://cs.nyu.edu/~deena/) and [Vicky Steeves](https://vickysteeves.com/),  to the course wiki
   - add your own question, and enter a number 1 next to it
   - read through existing questions, and up-vote the questions you like
     (replace the number next to them with a number __one higher__
