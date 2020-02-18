@@ -15,7 +15,7 @@ Presentations of the Firefox add-ons projects.
 
 - Team 1, [Light Switch](https://github.com/nyu-ossd-s20/LightSwitch)
 - Team 2, [Top Sites Border](https://github.com/nyu-ossd-s20/Group2)
-- Team 3, [repacge](https://github.com/nyu-ossd-s20/repcage)
+- Team 3, [repcage](https://github.com/nyu-ossd-s20/repcage)
 - Team 4, [Virtual Dice and Coin Flip](https://github.com/nyu-ossd-s20/Virtual-Dice-and-Coin-Flip)
 - Team 5, [NYU Clock](https://github.com/nyu-ossd-s20/nyu-clock)
 - Team 6, [mockbob](https://github.com/nyu-ossd-s20/mockbob)
