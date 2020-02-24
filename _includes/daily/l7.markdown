@@ -11,7 +11,7 @@ Wed, 2/19
 <div class="column_materials">
 <p markdown="block">
 
-Invited speaker: Deena Engel and Vicky Steeves.
+Invited speaker: Deena Engel ([slides](https://cs.nyu.edu/courses/spring20/CSCI-UA.0060-001/notes/JK_class_presentation_2020_0219.pdf)) and Vicky Steeves ([slides](https://tinyurl.com/find-data)).
 
 Topic: Open Data  
 

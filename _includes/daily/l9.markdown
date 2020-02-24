@@ -12,6 +12,10 @@ Wed, 2/26
 <p markdown="block">
 
 
+Invited speaker: Kevin P. Fleming, [Linkedin](https://www.linkedin.com/in/kpfleming/)
+
+Topic: how/why Bloomberg uses and contributes to open source.
+
 
 </p>
 </div>
@@ -25,4 +29,3 @@ Wed, 2/26
 </div>
 
 </div>
-

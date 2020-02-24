@@ -11,6 +11,14 @@ Mon, 2/24
 <div class="column_materials">
 <p markdown="block">
 
+Project evaluation or what to look for in a potential project.
+
+- [Ghidra](https://www.nsa.gov/resources/everyone/ghidra/)
+- [GNOME Clocks](https://wiki.gnome.org/Apps/Clocks)
+- [Godot](https://godotengine.org/)
+- [Inkscape](https://inkscape.org/)
+- [Jupyter](https://jupyter.org/)
+- [OpenEMR](https://www.open-emr.org/)
 
 
 </p>
@@ -19,10 +27,26 @@ Mon, 2/24
 <div class="column_assign">
 <p markdown="block">
 
+Due as soon as possible (but definitely by the end of Tuesday):
+- add a question for  Kevin P. Fleming, [Linkedin](https://www.linkedin.com/in/kpfleming/) to the course wiki
+  - add your own question, and enter a number 1 next to it
+  - read through existing questions, and up-vote the questions you like
+    (replace the number next to them with a number __one higher__
+  - go back to the page Wednesday morning to cast your vote on
+    additional questions if you like them
 
+Due by the end of the week (Feb. 29):
+- reflect on your goals for open source contributions, your skills and your interests in the
+`taking_stock` repository in the course organization (you should see your own private repository for this)
+- make your week 5 blog post
+    - reflect on the project evaluations that were completed in class: what did
+    you learn? what was challenging and why? do you think you are ready to select a
+    project to contribute to?  
+    - reflect on the invited talk: what did you learn? what was surprising/unexpected? what was interesting?
+    did your view of the interaction of open source projects and large companies change?
+    - comment on your contributions (make sure that you are recording them in the contributions page on your blog)
 
 </p>
 </div>
 
 </div>
-
