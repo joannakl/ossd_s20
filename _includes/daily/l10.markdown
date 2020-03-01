@@ -12,6 +12,7 @@ Mon, 3/02
 <p markdown="block">
 
 
+Invited speaker: [Vicky Steeves](https://vickysteeves.com/)
 
 </p>
 </div>
@@ -20,9 +21,22 @@ Mon, 3/02
 <p markdown="block">
 
 
+Due by next class (March 4):
+- complete [project evaluation](https://github.com/nyu-ossd-s20/project-evaluation)
+for your assigned project (project assignments sent on Slack) - some of these projects
+have multiple repositories, pick one of them (something that seems to the be core
+repository or the main repository) and indicate which one you picked in your evaluation
+- pick another project that you think is interesting (this should be something that you are excited about, something that you think you may want to be working on, something that matches your goals and skills as you outlined them in the taking_stock exercise; it also should NOT be one of the projects assigned in the first part of this exercise)
+
+Start in class on Wednesday and complete by Friday (March 6):
+- complete [project evaluation](https://github.com/nyu-ossd-s20/project-evaluation)
+for a project of your choice
+
+Due by the end of the week (March 8):
+- make your week 6 blog post reflecting on the invited talk and project evaluations;
+do you think there is a specific project or two that you might want to work on?
 
 </p>
 </div>
 
 </div>
-
