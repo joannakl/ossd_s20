@@ -64,14 +64,14 @@ Compare your steps with those of your group members. Pick one of the sequences o
 1. If your group was able to recreate the structure correctly, move on to the next step. If you were not, look at the shared pad and pick a sequence of instructions that was successful and execute it on your own machine (you may need to start from a clean repository).
 
 1. In this step, you will rebase the branch1 onto master.  
-  - Consult with your group before you attempt the rebase to answer the questions below.
+  1. Consult with your group before you attempt the rebase to answer the questions below.
 There are two commits in branch1 that will be "rebased" onto the master branch,
 
       - how many conflict might there be?
       - what will the files look like after the rebase is complete?
     Enter your answers/guesses in the pad under the heading "Exercise 2".
 
-  - Perform the actual rebase:
+  1. Perform the actual rebase:
     ```
     git rebase master
     ```
