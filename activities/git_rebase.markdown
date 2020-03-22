@@ -23,13 +23,13 @@ results in a conflict since file3 has been independently created/modified in bot
 
 - If we resolve the conflict by skipping the commit `d09942b` (the one that created file3 in branch1), then the resulting branches will look as follows.
 
-  <img src=img/rebase0_skip.png>
+  <img src="img/rebase0_skip.png">
 
   (This means that we decided to not apply the that commit to the resulting flow of commit. It is now gone. )
 
 - If we resolve the conflict by using the content of the file from the commit in branch1, thne the resulting branches will look as follows.
 
-  <img src=img/rebase0_use_commit.png>
+  <img src="img/rebase0_use_commit.png">
 
   (This means that we decided to apply the that commit that created file3 in branch1 on top of (after) the commit that created that file in the master branch.)
 
@@ -43,7 +43,7 @@ https://pad.riseup.net/p/ossd_git_rebase
 
 On your local machine, create a new repository. Try to perform sequence of `git` instructions that will produce a repository for which the commits look as follows
 
-<img src=img/rebase1.png>
+<img src="img/rebase1.png">
 
 <br><br>
 
@@ -86,7 +86,7 @@ In exercises 3 and 4 you will repeat similar steps to the ones that you did in e
 
 On your local machine, create a new repository. Try to perform sequence of `git` instructions that will produce a repository for which the commits look as follows
 
-<img src=img/rebase2.png>
+<img src="img/rebase2.png">
 
 Consult with your group members if you are running into problems.
 
