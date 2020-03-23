@@ -70,7 +70,7 @@ There are two commits in branch1 that will be "rebased" onto the master branch,
         - how many conflict might there be?
         - what will the files look like after the rebase is complete?
 
-      Enter your answers/guesses in the pad under the heading "Exercise 2".
+        Enter your answers/guesses in the pad under the heading "Exercise 2".
 
     1. Perform the actual rebase:
     ```
