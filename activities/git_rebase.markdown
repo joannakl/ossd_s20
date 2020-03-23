@@ -25,13 +25,13 @@ results in a conflict since file3 has been independently created/modified in bot
 
   <img src="img/rebase0_skip.png">
 
-  (This means that we decided to not apply the that commit to the resulting flow of commit. It is now gone. )
+  (This means that we decided to not apply that commit to the resulting flow of commits. It is now gone. )
 
-- If we resolve the conflict by using the content of the file from the commit in branch1, thne the resulting branches will look as follows.
+- If we resolve the conflict by using the content of the file from the commit in branch1, then the resulting branches will look as follows.
 
   <img src="img/rebase0_use_commit.png">
 
-  (This means that we decided to apply the that commit that created file3 in branch1 on top of (after) the commit that created that file in the master branch.)
+  (This means that we decided to apply the commit that created file3 in branch1 _on top of_ (or after) the commit that created that file in the master branch.) This means that we preserve the file content from branch 1, unless we combine/modify it during the conflict resolution.
 
 In the following, you are given a few exercises that will give you a bit of experience in working with branches and rebasing.
 
@@ -48,7 +48,7 @@ On your local machine, create a new repository. Try to perform sequence of `git`
 <br><br>
 
 Keep in mind:
-- `git` does not allow you to easily add empty files or empty commits, so make sure that your files actually contain something in them
+- `git` does not allow you to easily add empty files or empty commits, so make sure that your files actually contain something in them (if the files are independently created in different branches, they should have content that is different)
 - to see the log of commits in different branches (as shown above) you can run
   ```
   git log --graph --oneline --all
@@ -57,7 +57,7 @@ Keep in mind:
 
 Consult with your group members if you are running into problems.
 
-Compare your steps with those of your group members. Pick one of the sequences of instructions that correctly recreated the above structure and add it to the shared pad with a note "Exercise 1". Make sure that your answer is posted under the correct _room_ heading. If you were not able to do this step correctly, do not enter anything in the shared pad.
+Compare your steps with those of your group members. Pick one of the sequences of instructions that correctly recreated the above structure and add it to the shared pad with a note "Exercise 1" above it. Make sure that your answer is posted under the correct _room_ heading. If you were not able to do this step correctly, do not enter anything in the shared pad.
 
 ## Exercise 2
 
@@ -65,7 +65,7 @@ Compare your steps with those of your group members. Pick one of the sequences o
 
 1. In this step, you will rebase the branch1 onto master.  
     1. Consult with your group before you attempt the rebase to answer the questions below.
-There are two commits in branch1 that will be "rebased" onto the master branch,
+       There are two commits in branch1 that will be "rebased" onto the master branch,
 
         - how many conflict might there be?
         - what will the files look like after the rebase is complete?
@@ -90,7 +90,7 @@ On your local machine, create a new repository. Try to perform sequence of `git`
 
 Consult with your group members if you are running into problems.
 
-Compare your steps with those of your group members. Pick one of the sequences of instructions that correctly recreated the above structure and add it to the shared pad with a note "Exercise 3". Make sure that your answer is posted under the correct _room_ heading. If you were not able to do this step correctly, do not enter anything in the shared pad.
+Compare your steps with those of your group members. Pick one of the sequences of instructions that correctly recreated the above structure and add it to the shared pad with a note "Exercise 3" above it. Make sure that your answer is posted under the correct _room_ heading. If you were not able to do this step correctly, do not enter anything in the shared pad.
 
 ## Exercise 4
 
@@ -98,7 +98,7 @@ Compare your steps with those of your group members. Pick one of the sequences o
 
 1. In this step, you will rebase the branch1 onto master.  
     1. Consult with your group before you attempt the rebase to answer the questions below.
-There are two commits in branch1 that will be "rebased" onto the master branch,
+       There are two commits in branch1 that will be "rebased" onto the master branch,
         - how many conflict might there be?
         - what will the files look like after the rebase is complete?
 
