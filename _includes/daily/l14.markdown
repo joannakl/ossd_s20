@@ -31,10 +31,6 @@ Due by March 28:
 As soon as possible, but make sure that you consult with __all__ your group members:
 - schedule your group meeting with JK (info about available appointments on NYU Classes)
 
-Start in class on Wednesday and complete by Friday (March 6):
-- complete [project evaluation](https://github.com/nyu-ossd-s20/project-evaluation)
-for a project of your choice
-
 Due by the end of the week (March 29):
 - make your week 8 blog post: there are a lot of things to reflect on these days, but try to also
 talk about your group project progress and your personal experience working with the group and the project
