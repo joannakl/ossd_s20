@@ -11,7 +11,9 @@ Wed, 3/04
 <div class="column_materials">
 <p markdown="block">
 
+Project evaluation, part 2.
 
+[slides](slides/project_evaluation.html)
 
 </p>
 </div>
@@ -25,4 +27,3 @@ Wed, 3/04
 </div>
 
 </div>
-

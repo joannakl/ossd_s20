@@ -11,7 +11,11 @@ Mon, 3/09
 <div class="column_materials">
 <p markdown="block">
 
+Meging vs. rebasing: how to integrate content from other
+branches into your development branch.
 
+
+[slides](slides/git_merge_rebase.html)
 
 </p>
 </div>
@@ -25,4 +29,3 @@ Mon, 3/09
 </div>
 
 </div>
-

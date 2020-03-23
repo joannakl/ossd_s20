@@ -11,7 +11,10 @@ Wed, 3/11
 <div class="column_materials">
 <p markdown="block">
 
+First remote class. 
 
+Project groups.
+Meeting your team members. Picking the project.
 
 </p>
 </div>
@@ -25,4 +28,3 @@ Wed, 3/11
 </div>
 
 </div>
-
