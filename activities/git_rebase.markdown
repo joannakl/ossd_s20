@@ -108,6 +108,5 @@ There are two commits in branch1 that will be "rebased" onto the master branch,
     ```
     git rebase master
     ```
-    If there are conflicts and alternative ways to resolve them, explore different ways and what happens in each.
-
+    If there are conflicts and alternative ways to resolve them, explore different ways and what happens in each.<br>
     Were your answers/guesses correct? If anything strange happened, try to decide if it makes sense and describe your thinking. (This should be answered as a group.)
