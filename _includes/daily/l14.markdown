@@ -11,6 +11,12 @@ Mon, 3/23
 <div class="column_materials">
 <p markdown="block">
 
+Planning each group meetings with Joanna
+
+Working with git branches and rebasing - continued
+
+[Visualizing working with branches](https://git-school.github.io/visualizing-git/#free)
+
 
 
 </p>
@@ -19,10 +25,26 @@ Mon, 3/23
 <div class="column_assign">
 <p markdown="block">
 
+Due by March 28:
+- register for Zoom with your NYU credentials (simply log into Zoom at  https://nyu.zoom.us/   using the SSO (sing sign-on option))
+
+As soon as possible, but make sure that you consult with __all__ your group members:
+- schedule your group meeting with JK (info about available appointments on NYU Classes)
+
+Start in class on Wednesday and complete by Friday (March 6):
+- complete [project evaluation](https://github.com/nyu-ossd-s20/project-evaluation)
+for a project of your choice
+
+Due by the end of the week (March 29):
+- make your week 8 blog post: there are a lot of things to reflect on these days, but try to also
+talk about your group project progress and your personal experience working with the group and the project
+- __readings__ in preparatioin for discussions next week: [Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) by Eric S. Raymond (you should be reading the essay titled [_Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/) in this book, the second link is a direct link to the XHTML format of that essay, there are other formats available at the book site at the first link)
+
+
+
 
 
 </p>
 </div>
 
 </div>
-

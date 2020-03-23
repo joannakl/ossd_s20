@@ -192,8 +192,6 @@ corresponding to the BRANCH_NAME branch.
 
 
 
-https://git-school.github.io/visualizing-git/#free
-
 
 
 
@@ -348,10 +346,10 @@ command, as in
       $ git commit . -m "Added file2 "
       $ git checkout -b branch1
       $ echo "My third file" >  file3 ; git add file3
-      $ git commit . -m "Updated file3"
+      $ git commit . -m "Created file3 in branch1"
       $ git checkout master
       $ echo "My fourth file (only in master)" > file4 ; git add .
-      $ git commit . -m "Added file4 to master"
+      $ git commit . -m "Created file4 in master"
       $ echo "My better version of the third file." >  file3 ; git add file3
       $ git commit . -m "Created file3 in master."
    ```
@@ -529,21 +527,21 @@ conflict is manually resolved.
 - We can create a repository with a conflict using the same sequence of
   commands from the "Merge Conflicts" slide earlier: It is repeated here.
 
-   ```bash
-      $ git init
-      $ echo "My first file" > file1 ; git add file1
-      $ git commit . -m "Added file1 to empty repository"
-      $ echo "My second file" > file2 ; git add file2
-      $ git commit . -m "Added file2 "
-      $ git checkout -b branch1
-      $ echo "My third file" >  file3 ; git add file3
-      $ git commit . -m "Updated file3"
-      $ git checkout master
-      $ echo "My fourth file (only in master)" > file4 ; git add .
-      $ git commit . -m "Added file4 to master"
-      $ echo "My better version of the third file." >  file3 ; git add file3
-      $ git commit . -m "Created file3 in master."
-   ```
+  ```bash
+     $ git init
+     $ echo "My first file" > file1 ; git add file1
+     $ git commit . -m "Added file1 to empty repository"
+     $ echo "My second file" > file2 ; git add file2
+     $ git commit . -m "Added file2 "
+     $ git checkout -b branch1
+     $ echo "My third file" >  file3 ; git add file3
+     $ git commit . -m "Created file3 in branch1"
+     $ git checkout master
+     $ echo "My fourth file (only in master)" > file4 ; git add .
+     $ git commit . -m "Created file4 in master"
+     $ echo "My better version of the third file." >  file3 ; git add file3
+     $ git commit . -m "Created file3 in master."
+  ```
  Once again,  `file3` has a different first line in   `master`
 from that of the `file3` in `branch1`.
 
