@@ -12,6 +12,8 @@ Wed, 4/01
 <p markdown="block">
 
 
+Invited speaker: Gil Yehuda, [Linkedin](https://www.linkedin.com/in/gilyehuda/detail/recent-activity/posts/),
+Sr. Director of Technology Strategy at [Open Source Program Office](https://developer.yahoo.com/opensource/docs/) at Yahoo --> Oath - -> Verizon Media
 
 </p>
 </div>
@@ -25,4 +27,3 @@ Wed, 4/01
 </div>
 
 </div>
-

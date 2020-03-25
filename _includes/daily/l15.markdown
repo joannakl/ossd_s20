@@ -11,6 +11,10 @@ Wed, 3/25
 <div class="column_materials">
 <p markdown="block">
 
+Finish (or really try to start again) with
+[Rebase Group Exercise](activities/git_rebase.html)
+
+Open Encyclopedia discussion.  
 
 
 </p>
@@ -25,4 +29,3 @@ Wed, 3/25
 </div>
 
 </div>
-
