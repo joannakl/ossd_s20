@@ -35,8 +35,7 @@ results in a conflict since file3 has been independently created/modified in bot
 
 In the following, you are given a few exercises that will give you a bit of experience in working with branches and rebasing.
 
-For each exercise, consult with other students in your group and add the final answer to the shared pad at
-https://pad.riseup.net/p/ossd_git_rebase  
+For each exercise, consult with other students in your group and add the final answer to the [shared pad](https://pad.riseup.net/p/ossd_git_rebase). 
 
 
 ## Exercise 1
