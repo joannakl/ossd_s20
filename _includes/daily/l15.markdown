@@ -14,7 +14,7 @@ Wed, 3/25
 Finish (or really try to start again) with
 [Rebase Group Exercise](activities/git_rebase.html)
 
-Open Encyclopedia discussion.  
+~~Open Encyclopedia discussion.~~  (did not get to it)
 
 
 </p>

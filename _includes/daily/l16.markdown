@@ -11,7 +11,10 @@ Mon, 3/30
 <div class="column_materials">
 <p markdown="block">
 
+Lessons from
+_The Cathedral and The Bazaar_ by Eric Raymond
 
+[slides](slides/cathedral_bazaar_lessons.html)
 
 </p>
 </div>
@@ -25,4 +28,3 @@ Mon, 3/30
 </div>
 
 </div>
-
