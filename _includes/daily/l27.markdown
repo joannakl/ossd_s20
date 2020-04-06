@@ -12,6 +12,7 @@ Wed, 5/06
 <p markdown="block">
 
 
+Project presentations. 
 
 </p>
 </div>
@@ -25,4 +26,3 @@ Wed, 5/06
 </div>
 
 </div>
-

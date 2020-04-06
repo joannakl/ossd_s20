@@ -11,7 +11,7 @@ Mon, 5/11
 <div class="column_materials">
 <p markdown="block">
 
-
+Project presentations. 
 
 </p>
 </div>
@@ -25,4 +25,3 @@ Mon, 5/11
 </div>
 
 </div>
-
