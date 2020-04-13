@@ -11,6 +11,11 @@ Mon, 4/06
 <div class="column_materials">
 <p markdown="block">
 
+Finish discussing lessons from
+_The Cathedral and The Bazaar_ by Eric Raymond
+
+Open Encyclopedia discussion.
+
 
 
 </p>
@@ -20,9 +25,23 @@ Mon, 4/06
 <p markdown="block">
 
 
+Due by Apr 8:
+- get ready for your group stand-up reports
+
+Due by the end of Saturday (Apr. 11):
+- research _open efforts_ in the area of COVID-19 pandemic
+- add links to the resources you find to the wiki page in the course organization
+- be ready to discuss your findings in class on Monday, Apr. 13
+
+Due by the end of the week (Apr. 12):
+- make your week 10 blog post: talk about what you thought of the other groups' stand-up reports,
+talk about your own group project progress and your personal experience working with the group and the project;
+talk about your experiences with contributing to Wikipedia and/or about the role that
+Wikipedia plays in your life/education/research/... 
+
+
 
 </p>
 </div>
 
 </div>
-

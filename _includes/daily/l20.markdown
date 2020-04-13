@@ -12,6 +12,13 @@ Mon, 4/13
 <p markdown="block">
 
 
+__Group stand-up reports__  (last three groups)
+
+
+__Open Efforts regarding COVID 19__ <br>
+[shared pad](https://pad.riseup.net/p/OpenEfforts_COVID19) for todays' class 
+
+
 
 </p>
 </div>
@@ -25,4 +32,3 @@ Mon, 4/13
 </div>
 
 </div>
-

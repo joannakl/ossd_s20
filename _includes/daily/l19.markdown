@@ -11,7 +11,16 @@ Wed, 4/08
 <div class="column_materials">
 <p markdown="block">
 
-
+__Group stand-up reports__ (~5 minutes each)
+- which project you are working on?
+- what is the project (assume other people never heard of it)?
+- why did you pick this project?
+- describe your interactions with the community so far
+- describe the progress you made so far
+(You can share the screen, if you wish to show your materials, but you do not have to.
+You should, if possible, have you camera on so we can see the people who are talking.
+Make sure that the talking is distributed between group members and that it is organized - you should
+not be interrupting one another.)
 
 </p>
 </div>
@@ -25,4 +34,3 @@ Wed, 4/08
 </div>
 
 </div>
-
