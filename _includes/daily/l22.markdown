@@ -11,7 +11,7 @@ Mon, 4/20
 <div class="column_materials">
 <p markdown="block">
 
-
+Finish discussion about HFOSS and projects for social good.
 
 </p>
 </div>
@@ -19,10 +19,24 @@ Mon, 4/20
 <div class="column_assign">
 <p markdown="block">
 
+As soon as possible (but needs to be updated regularly):
+Create a wiki page for your group project. The page should contain the following information:
+- name of the project with links to their official website and their software repositories
+- names and github names of the members of your team
+- list of all contributions you have made so far (update this list as you make progress)
+  - types of contributions: issue reports, comments on existing issues, pull requests
+  - for each contribution briefly describe what it was and what you did, indicate who in your group
+    was working on it, mention any issues or problems you run into
 
+
+Due by the end of the week (Apr. 26):
+- make your weekly blog post
+
+Ongoing:
+- continue working with your group
+- continue making your individual contributions
 
 </p>
 </div>
 
 </div>
-

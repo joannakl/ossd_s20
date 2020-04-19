@@ -11,7 +11,10 @@ Wed, 4/15
 <div class="column_materials">
 <p markdown="block">
 
+Continue discussion about __Open Efforts regarding COVID 19__
 
+Humanitarian Free and Open Source (HFOSS) projects and projects for social good. <br>
+[slides](slides/HFOSS.html)
 
 </p>
 </div>
@@ -25,4 +28,3 @@ Wed, 4/15
 </div>
 
 </div>
-
