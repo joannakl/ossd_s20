@@ -11,6 +11,8 @@ Wed, 4/29
 <div class="column_materials">
 <p markdown="block">
 
+Tentative: 'bash' and command line tools with Stewart Weiss
+
 
 
 </p>
@@ -25,4 +27,3 @@ Wed, 4/29
 </div>
 
 </div>
-

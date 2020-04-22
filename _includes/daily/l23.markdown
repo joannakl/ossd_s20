@@ -11,7 +11,10 @@ Wed, 4/22
 <div class="column_materials">
 <p markdown="block">
 
+Business models centered around open source projects.
 
+[slides](slides/business_models.html)
+ 
 
 </p>
 </div>
@@ -25,4 +28,3 @@ Wed, 4/22
 </div>
 
 </div>
-

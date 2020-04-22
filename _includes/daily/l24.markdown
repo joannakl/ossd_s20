@@ -12,6 +12,15 @@ Mon, 4/27
 <p markdown="block">
 
 
+__Group stand-up reports__ (~5 minutes each - and we have to keep to the time)
+- provide update on your interactions with the community
+- provide update on contributions you made
+- what you hope/expect to accomplish in the next 1-2 weeks
+- list the presentation dates in order of preference
+(You should, if possible, have your camera on so we can see the people who are talking.
+Make sure that the talking is distributed between group members and that it is organized - you should
+not be interrupting one another. Do not use slides or share screen for this one - save it for the actual
+presentations.)
 
 </p>
 </div>
@@ -25,4 +34,3 @@ Mon, 4/27
 </div>
 
 </div>
-
