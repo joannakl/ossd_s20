@@ -35,7 +35,7 @@ Due as soon as possible (but definitely by the end of Tuesday):
   - go back to the page Wednesday morning to cast your vote on
     additional questions if you like them
 
-Due by the end of the week (Feb. 29):
+Due by the end of the week (Mar. 1):
 - reflect on your goals for open source contributions, your skills and your interests in the
 `taking_stock` repository in the course organization (you should see your own private repository for this)
 - make your week 5 blog post
