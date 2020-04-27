@@ -10,7 +10,7 @@ Fri, 4/3
 <div class="column_recitation">
 <p markdown="block">
 
-Last day to withdraw from the class with W grade.
+Last day to withdraw from the class with W grade has now been extended to May 12th, 2020. 
 
 </p>
 </div>
