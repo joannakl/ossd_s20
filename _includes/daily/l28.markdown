@@ -11,7 +11,12 @@ Mon, 5/11
 <div class="column_materials">
 <p markdown="block">
 
-Project presentations. 
+Project presentations:
+
+- [freeCodeCamp(10)](https://github.com/nyu-ossd-s20/freeCodeCamp)
+- [Gatsby]()
+- [Lemmy](https://github.com/nyu-ossd-s20/lemmy)
+
 
 </p>
 </div>

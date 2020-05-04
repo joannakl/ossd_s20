@@ -12,7 +12,12 @@ Wed, 5/06
 <p markdown="block">
 
 
-Project presentations. 
+Project presentations:
+
+- [Inky](https://github.com/nyu-ossd-s20/inky)
+- [freeCodeCamp(12)](https://github.com/nyu-ossd-s20/freeCodeCamp)
+- [OpenFoodFacts server](https://github.com/nyu-ossd-s20/openfoodfacts-server)
+
 
 </p>
 </div>
