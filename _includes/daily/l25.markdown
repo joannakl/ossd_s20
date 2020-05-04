@@ -11,9 +11,9 @@ Wed, 4/29
 <div class="column_materials">
 <p markdown="block">
 
-~Tentative: 'bash' and command line tools with Stewart Weiss~
+~~Tentative: 'bash' and command line tools with Stewart Weiss~~
 
-class canceled 
+class canceled
 
 
 </p>
