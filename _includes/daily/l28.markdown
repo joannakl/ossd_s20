@@ -14,7 +14,7 @@ Mon, 5/11
 Project presentations:
 
 - [freeCodeCamp(10)](https://github.com/nyu-ossd-s20/freeCodeCamp)
-- [Gatsby]()
+- [JupyterLab](https://github.com/nyu-ossd-s20/jupyterlab)
 - [Lemmy](https://github.com/nyu-ossd-s20/lemmy)
 
 

@@ -17,7 +17,7 @@ __this is a different day and time than usual classes__: 2:00-3:50pm
 Project presentations:
 
 - [Tuxemon](https://github.com/nyu-ossd-s20/Tuxemon)
-- [JupyterLab](https://github.com/nyu-ossd-s20/jupyterlab)
+- [Gatsby]()
 - [Oppia]()
 
 </p>
